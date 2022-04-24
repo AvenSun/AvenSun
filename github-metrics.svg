@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2221" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1790" class="">
     <defs>
         <style/>
     </defs>
@@ -481,12 +481,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 3 commits)</small>
+                    <small class="h-details">(computed from last 2 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 00:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -1831,112 +1831,12 @@ wrong result when coordinates are normalized between 0 and 1</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">AvenSun/X</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4d872a5</div>
-                                        <div class="message">从sql解析表名，作为跟踪名一部分</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd179d7</div>
-                                        <div class="message">WebRequest</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94502fe</div>
-                                        <div class="message">加载机器设备信息时，吃掉异常，确保主流程正常</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afdd22d</div>
-                                        <div class="message">Merge branch 'master' of http://git.newlifex.com/NewLife/X</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03fbad4</div>
-                                        <div class="message">增强Redis埋点，直接落实到具体命令</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8be029e</div>
-                                        <div class="message">服务器，带端口。例如127.0.0.1:6397，支持逗号分隔的多地址，网络异常时，自动切换到其它节点，60秒后切回来</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f4ddef</div>
-                                        <div class="message">2020.0918-beta3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00eb5b2</div>
-                                        <div class="message">2020.0916-beta3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60733a4</div>
-                                        <div class="message">减少 ICache.Expire 的使用</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d758dbe</div>
-                                        <div class="message">优化分表分库例程</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2adb43</div>
-                                        <div class="message">Revert "集合操作，增加过期时间参数"
-
-This reverts commit be1cdff10f02c0b850deb28d0a264d19ed900c90.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f9d5d3</div>
-                                        <div class="message">redis解码时，加号和冒号都是换行结尾的字符串，冒号实际上表名后面是数字。由于不好确定数字是否长整型，一律按字符串返回</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0830bc3</div>
-                                        <div class="message">增强Redis协议解析，以支持stream</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35306e5</div>
-                                        <div class="message">Redis获取所有键，限制10000项，超额请使用FullRedis.Search</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aec0060</div>
-                                        <div class="message">只有redis4/redis5支持SETNX的有效期参数，redis6不支持</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c0ce10</div>
-                                        <div class="message">支持Redis6.0设置用户名</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#517c66d</div>
-                                        <div class="message">连接字符串可能独立写了port</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acad1e4</div>
-                                        <div class="message">2020.0914-beta2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d64bac8</div>
-                                        <div class="message">Revert "Save优先使用整型主键字段判断"
-
-This reverts commit 08a67f672a33d3b8db525bd4743a29330ed7e0a8.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be1cdff</div>
-                                        <div class="message">集合操作，增加过期时间参数</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Apr 2022, 03:06:47 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 04:11:05 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
