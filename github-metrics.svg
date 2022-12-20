@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2049" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1668" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.property,.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.property,.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    402k added, 26 removed
+                                    402k added, 27 removed
                                 </div>
                             </section>
                             <section>
@@ -487,12 +487,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 3 commits)</small>
+                    <small class="h-details">(computed from last 2 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 09:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -1830,243 +1830,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 39 commits in
-                                        <span class="repo">AvenSun/Flyleaf</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a7ffeec</div>
-                                        <div class="message">Updates to v3.6 (FlyleafLib) / v1.2 (FlyleafME)
-
-Introduces FlyleafHost a new DPI aware, hardware accelerated Direct3D Surface (WPF VideoView's replacement and Flyleaf's for Winforms)
- * Early and fast initialization of handles and renderer which will also resolve several issues
- * Adds Attach / Detach functionality
- * Self Drag Move also on attach mode (within the host's owner bounds)
- * Drag &amp; Drop Swap between FlyleafHosts (Shift + Drag)
- * Custom non-borders resizable windows both on attach and detach mode (can keep input's ratio)
- * Adds Z-order surfaces support
- * Resolves several issues when the host's rectangle was clipped
- * Adds support for WPF Windows to the Renderer in addition to WinForms UserControl
- * Resolves several issues with DPI
- * Better UI performance overall (including swaps and switching between Normal / Full Screen)
-
-Introduces FlyleafME, a WPF Media Element Control (Flyleaf replacement)
- * Code clean-up and styles / templates to allow easier override and customization
- * Updated with the new FlyleafHost (old ViewView) and gains better performance with more functionality
- * Adds Activity Timeout on Settings
- * Adds Rotation to Popup menu
- * Fixes several issues with DPI
- * Fixes issues with Activity / Idle Mode
- * Fixes an issue to respect Subtitles FontStyle
- * Updates FlyleafLib
-
-Player
- * Adds Rotation Support (Shift + Wheel)
- * Fixes a UI threading issue that it could cause Player.Initialization to crash
- * Fixes Activity / Idle Mode issues
- * General code clean-up and performance improvements
-
-Breaking Changes
- * VideoView has been renamed to FlyleafHost
- * Flyleaf (WPF Control) has been renamed to FlyleafME (Media Element) and does not require a FlyleafHost as it was required previously with the VideoView (it derives from it)
- * Player.IsFullScreen, Config.Player.ActivityTimeout, Config.Player.MouseBindings and Config.Player.KeyBindings.(Enabled/FlyleafWindow) has been transferred to FlyleafHost
- * Player.ActivityMode has been removed (its the same as ActivityTimeout=0) however Player.Activity.IsEnabled can be used to temporary turn it on/off
- * Player.Swap has been removed as you can now set directly the Players to FlyleafHosts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1e7c85</div>
-                                        <div class="message">Renderer: Fixes a DPI issue with WinForms</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#249f991</div>
-                                        <div class="message">Updates Readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2ea941</div>
-                                        <div class="message">Solution clean-up
-
-Renaming Plugins folders (removes FlyleafLib.Plugins)
-Renaming BitSwarm to TorrentBitSwarm</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e603b21</div>
-                                        <div class="message">Solution clean-up
-
-Removes HWAcceleration tutorial (it was using SharpDX, hopefully will added updated in the future)
-
-Transfers Plugins projects under Plugins/ folder
-
-Compiled (for all .net versions) plugins will be under Plugins/bin/ folder and .NET6 plugins will be shared for Samples under Samples/Plugins/ folder</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5cd2cf0</div>
-                                        <div class="message">Updates Readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92cf8b9</div>
-                                        <div class="message">FlyleafHost: Adds Rotation with Shift + Mouse Wheel
-FlyleafHost: Few more renamings and corrections
-Player: Adds RotateLeft / RotateRight to Extra and Commands</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f6df53</div>
-                                        <div class="message">Updates to v3.6-pre3
-
-Player: Adds Rotation support
-Player.Commands: Adds RotationSet
-FlyleafME: Adds Rotation to popup menu
-Renderer: Fixes an issue after Player.Stop
-WPF.FlyleafHost: Fixes issues with Designer, Activity, Resize and Window States</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc818cc</div>
-                                        <div class="message">Fixes Resize and Activity minor issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abcfe83</div>
-                                        <div class="message">FlyleafPlayer: Restores a missing using
-Plugins.BitSwarm: Updates to 2.4.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d2ea9e</div>
-                                        <div class="message">FlyleafHost: Fixes issues with Window States and adds IsMinimized dp
-
-Player.Activity: Fixes an issue that would stay in active mode while was idle (because of KeyUp would never fire sometimes)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddbe113</div>
-                                        <div class="message">Player: Adds Rotation support (fixes #176)
-Notes: for both Flyleaf/D3D11 VPs (Flyleaf supports 0-360 angle where D3D11 support only 0,90,180,270 angles)
-
-Player.Commands: Adds RotationSet
-
-FlyleafME: Adds Rotation to popup menu</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#886c1f7</div>
-                                        <div class="message">Adds Player.Rotation support (currently for D3D11 Video Processor) - related to #176</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f65490</div>
-                                        <div class="message">Fixes an issue with renderer that it wouldn't initialize after Player.Stop
-
-Fixes a UI threading issue that it could cause Player.Initialization to crash
-
-Plugins.BitSwarm: Updates to latest package which fixes several issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6830127</div>
-                                        <div class="message">FlyleafHost: Fixes minor issues with the designer mode and initial allow drop state</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7a5f78</div>
-                                        <div class="message">Updates to v3.6-pre2 / v1.2-pre2
-
-WPF.FlyleafHost: Adds support for resize based on Player's aspect ratio
-WPF.FlyleafHost: Adds more options for detached positioning/sizing
-WPF.FlyleafHost: Adds all the functionality also for the Overlay
-WPF.FlyleafHost: Finishes up the new implementation (more renamings, see WPF/FlyleafHost.cs for details)
-
-FlyleafPlayer: Adds Ctrl+N to Open New Window and Ctrl+W to Close it
-FlyleafPlayer: Adds Always On Top toggle button
-FlyleafPlayer: Adds support to open url from command line (related to #208)
-
-FlyleafME: Fixes an issue to respect Subtitles FontStyle
-FlyleafME: Adds Activity Timeout on Settings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70c11ae</div>
-                                        <div class="message">Updates to v3.6-pre / v1.2-pre
-
--= Re-designing of UI Controls (Focus on WPF) =-
-
-New Features / Resolved Issues
- - Introduces FlyleafHost Renderer D3D Surface (WPF VideoView's replacement and Flyleaf's for Winforms)
-  * Early and fast initialization of handles and renderer which will also resolve several issues (related to #204)
-  * Adds Attach / Detach functionality
-  * Self Drag Move also on attach mode (within the host's owner bounds)
-  * Drag n Drop Swap between FlyleafHosts (Shift + Drag)
-  * Custom non-borders resizable windows both on attach and detach mode
-  * Better UI Performance overall (including Swaps and Switching between Normal to Full Screen)
-  * Adds Z-order surfaces support (related to #149)
-  * Adds support for WPF Windows to the Renderer in addition to WinForms UserControl
-  * Resolves several issues when the host's rectangle was clipped (related to #170)
-
- - Introduces FlyleafME WPF Media Element Control (WPF Flyleaf Control replacement)
-  * Updated with the new FlyleafHost and gains better performance
-  * Code clean-up and styles to allow easier override and customization
-  * Early initialization and respect to the provided configuration (such as Activity Timeout, UI Refresh, Key bindings etc.)
-
- - Code clean-up and performance improvements
- - Resolves several issues with DPI  (related to #197)
-
-Breaking Changes
- * VideoView has been renamed to FlyleafHost
- * Flyleaf (WPF Control) has been renamed to FlyleafME (Media Element) and does not require a FlyleafHost as it was required previously with the VideoView (it derives from it)
- * Player.IsFullScreen, Config.Player.ActivityTimeout, Config.Player.MouseBindings and Config.Player.KeyBindings.(Enabled/FlyleafWindow) has been transferred to FlyleafHost (see .cs)
- * Player.ActivityMode has been removed (its the same as ActivityTimeout=0) however Player.Activity.IsEnabled to temporary turn it on/off
- * Swap has been removed as you can now set directly the Players to FlyleafHosts
-
-Solutions Changes
- * FlyleafPlayer (WPF Control) (WPF) [Demo/Sample Release] has been updated with new style based on FlyleafME
- * FlyleafPlayer (WPF Control) (WinForms) has been removed and it will be reviewed if required in the future
- * FlyleafPlayer has been removed as a new repository will be created soon
- * WpfFlyleafHost new Test (sample) added for the new FlyleafHost control (ideal for beta testers)
- * Utils and Logger has been transferred to new folder under Utils
- * Forces C# lang ver 7.3 to make sure everything is compatible with .net framework</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65d3f7b</div>
-                                        <div class="message">Updates to v3.5.10 / v1.1.28
-
-* Engine: Fixes an issue with engine's thread for stats calculation while using multiple players
-* Config: Adds Config.Subtitles.Parser for custom formatting/parsing
-* Config: Adds Config.Player.MaxLatency for the new low latency with audio implementation which is embedded to default AVS usage
-* Player: Fixes a thread safety issue during Stop and Open/OpenAsync/Config.Video.AspectRatio change
-* Player: Adds Usage.ZeroLatencyAudioVideo for another low latency which supports audio with (no respect to min buffer or max latency)
-* Player: Improves speed playback
-* Plugins: Improves handling with media file extensions
-* Renderer: Fixes a rendering issue while the Player was buffering (no layout update)
-* VideoView: Fixes an issue with jitter while dragging (DPI)
-* VideoView: Fixes an issue with Subscribe Events on early player assignment (mainly for front window)
-* VideoView: Fixes an issue with front window's visibility
-* VideoView: Fixes an issue with early actions (eg. swapping when collapsed in a tab control) before the template has been applied by creating winforms control earlier
-
-* Controls.WPF: Includes the new Max Latency in Settings
-* Controls.WPF: Updates FlyleafLib, MaterialDesign and Dragablz</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49f6cb2</div>
-                                        <div class="message">Renderer: Fixes a rendering issue while the Player was buffering did not update the layout
-
-Player: Clean up for the new low latency methods
-
-Controls.WPF: Includes the new Max Latency in the Settings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fa3cd1</div>
-                                        <div class="message">Player: Merges low latency to the main playback screamer (related to #194)
-Config: Introduces Config.Player.MaxLatency for live network streams/cameras which affects the main playback screamer
-Player: Improves speed playback</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Dec 2022, 15:10:14 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 20 Dec 2022, 16:11:27 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
