@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1551" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1901" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -487,7 +487,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 6 commits)</small>
+                    <small class="h-details">(computed from last 7 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1704,6 +1704,436 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 196 commits in
+                                        <span class="repo">AvenSun/opencv</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">4.x</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6c763e1</div>
+                                        <div class="message">Add possibility for disabling inlining `wasm` in `opencv.js`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e03e2e7</div>
+                                        <div class="message">Merge pull request #23192 from zihaomu:clean_up_SIMD_code
+
+### Purpose of this PR:
+- Move all dispatch and SIMD code of `convolution layer` into `simd.hpp` file.
+- Support Winograd at AVX-only machine.
+- Re-name the folder from `fast_conv` to `cpu_kernels`. In the future, we can put other layers of CPU optimization into it, like `GEMM` or `MatMul`.
+
+## Performance Test
+Since this patch just focuses on the code style, the performance is expected as the same as before.
+Test with the following script: 
+`./bin/opencv_perf_dnn '--gtest_filter=*conv*' --gtest_output="xml:../1-0th.xml" --perf_threads=1`
+
+### Test on X86 platform
+Min (ms)
+|Name of Test|4.x | patch | 4.x vs patch (x-factor)|
+|---|:-:|:-:|:-:|
+|conv1d::Conv1D::(GFLOPS=0.000, K=[3], IN={1, 2, 19}, OCN=2, G=2, S=2, P=(1, 1), BIAS, OCV/CPU)|0.001|0.001|0.98|
+|conv1d::Conv1D::(GFLOPS=0.000, K=[3], IN={1, 2, 25}, OCN=2, G=2, P=(2, 2), PM=SAME, OCV/CPU)|0.001|0.001|0.95|
+|conv1d::Conv1D::(GFLOPS=0.000, K=[3], IN={1, 6, 10}, OCN=6, PM=VALID, BIAS, OCV/CPU)|0.001|0.001|0.97|
+|conv3d::Conv3D::(GFLOPS=0.000, K=[1 x 1 x 1], IN={1, 4, 9, 10, 10}, OCN=4, S=[1 x 1 x 2], P=(1, 1) x (1, 1) x (1, 1), PM=VALID, OCV/CPU)|0.002|0.002|1.04|
+|conv3d::Conv3D::(GFLOPS=0.000, K=[1 x 1 x 1], IN={1, 8, 1, 10, 10}, OCN=8, G=8, P=(1, 1) x (1, 1) x (1, 1), BIAS, OCV/CPU)|0.002|0.002|0.94|
+|conv3d::Conv3D::(GFLOPS=0.000, K=[3 x 3 x 3], IN={1, 2, 19, 19, 19}, OCN=2, G=2, S=[2 x 2 x 2], P=(1, 1) x (1, 1) x (1, 1), BIAS, OCV/CPU)|0.040|0.044|0.93|
+|conv3d::Conv3D::(GFLOPS=0.000, K=[3 x 4 x 2], IN={1, 4, 8, 10, 10}, OCN=4, G=4, S=[1 x 2 x 1], BIAS, OCV/CPU)|0.010|0.010|1.00|
+|conv3d::Conv3D::(GFLOPS=0.001, K=[3 x 3 x 3], IN={1, 2, 25, 19, 19}, OCN=2, G=2, S=[1 x 2 x 2], P=(2, 2) x (2, 2) x (2, 2), PM=SAME, OCV/CPU)|0.106|0.103|1.03|
+|conv3d::Conv3D::(GFLOPS=0.002, K=[3 x 1 x 4], IN={1, 14, 5, 10, 10}, OCN=14, PM=SAME, OCV/CPU)|0.041|0.040|1.03|
+|conv3d::Conv3D::(GFLOPS=0.006, K=[5 x 5 x 5], IN={1, 4, 50, 19, 19}, OCN=4, S=[2 x 2 x 2], P=(1, 1) x (1, 1) x (1, 1), PM=VALID, OCV/CPU)|0.340|0.329|1.03|
+|conv3d::Conv3D::(GFLOPS=0.027, K=[3 x 3 x 3], IN={1, 6, 10, 38, 50}, OCN=6, PM=VALID, BIAS, OCV/CPU)|0.590|0.567|1.04|
+|conv3d::Conv3D::(GFLOPS=0.030, K=[5 x 5 x 5], IN={1, 6, 19, 19, 19}, OCN=6, G=2, OCV/CPU)|1.374|1.314|1.05|
+|conv3d::Conv3D::(GFLOPS=0.045, K=[7 x 7 x 7], IN={1, 2, 38, 38, 38}, OCN=2, S=[1 x 2 x 1], OCV/CPU)|3.715|3.528|1.05|
+|conv3d::Conv3D::(GFLOPS=0.053, K=[3 x 3 x 3], IN={1, 10, 98, 10, 10}, OCN=10, PM=SAME, OCV/CPU)|1.181|1.166|1.01|
+|conv3d::Conv3D::(GFLOPS=0.071, K=[7 x 7 x 7], IN={1, 6, 15, 19, 19}, OCN=6, S=[2 x 1 x 1], P=(3, 3) x (3, 3) x (3, 3), PM=SAME, BIAS, OCV/CPU)|2.689|2.587|1.04|
+|conv3d::Conv3D::(GFLOPS=0.093, K=[5 x 5 x 5], IN={1, 4, 40, 75, 75}, OCN=4, S=[2 x 2 x 2], OCV/CPU)|4.754|4.500|1.06|
+|conv3d::Conv3D::(GFLOPS=0.116, K=[5 x 5 x 5], IN={1, 2, 21, 75, 100}, OCN=2, BIAS, OCV/CPU)|9.612|9.112|1.05|
+|conv3d::Conv3D::(GFLOPS=1.267, K=[5 x 5 x 5], IN={1, 3, 75, 75, 100}, OCN=3, PM=SAME, BIAS, OCV/CPU)|69.000|64.676|1.07|
+|conv3d::Conv3D::(GFLOPS=1.343, K=[3 x 3 x 3], IN={1, 11, 9, 150, 200}, OCN=11, PM=VALID, BIAS, OCV/CPU)|20.248|18.451|1.10|
+|conv::Conv::(GFLOPS=0.177, K=[1 x 1], IN={1, 512, 26, 26}, OCN=256, OCV/CPU)|1.395|1.392|1.00|
+|conv::Conv::(GFLOPS=0.177, K=[1 x 1], IN={1, 1024, 13, 13}, OCN=512, OCV/CPU)|1.990|1.984|1.00|
+|conv::Conv::(GFLOPS=0.178, K=[1 x 1], IN={1, 256, 52, 52}, OCN=128, OCV/CPU)|1.393|1.360|1.02|
+|conv::Conv::(GFLOPS=0.210, K=[1 x 1], IN={1, 576, 38, 50}, OCN=96, PM=SAME, BIAS, OCV/CPU)|1.813|1.744|1.04|
+|conv::Conv::(GFLOPS=0.231, K=[3 x 3], IN={1, 128, 56, 56}, OCN=32, P=[1 x 1], OCV/CPU)|1.190|1.191|1.00|
+|conv::Conv::(GFLOPS=0.231, K=[3 x 3], IN={1, 256, 14, 14}, OCN=256, P=[1 x 1], OCV/CPU)|1.286|1.284|1.00|
+|conv::Conv::(GFLOPS=0.280, K=[1 x 1], IN={1, 576, 38, 50}, OCN=128, PM=SAME, BIAS, OCV/CPU)|2.295|2.279|1.01|
+|conv::Conv::(GFLOPS=0.302, K=[3 x 3], IN={1, 64, 64, 64}, OCN=64, PM=SAME, OCV/CPU)|1.322|1.331|0.99|
+|conv::Conv::(GFLOPS=0.357, K=[1 x 1], IN={1, 64, 208, 208}, OCN=64, OCV/CPU)|3.784|3.533|1.07|
+|conv::Conv::(GFLOPS=0.420, K=[3 x 3], IN={1, 96, 38, 50}, OCN=128, PM=SAME, BIAS, OCV/CPU)|1.838|1.844|1.00|
+|conv::Conv::(GFLOPS=0.472, K=[3 x 3], IN={1, 128, 40, 40}, OCN=128, PM=SAME, OCV/CPU)|1.957|1.959|1.00|
+|conv::Conv::(GFLOPS=0.472, K=[3 x 3], IN={1, 256, 20, 20}, OCN=256, PM=SAME, OCV/CPU)|2.596|2.573|1.01|
+|conv::Conv::(GFLOPS=0.472, K=[3 x 3], IN={1, 512, 10, 10}, OCN=512, PM=SAME, OCV/CPU)|4.183|4.083|1.02|
+|conv::Conv::(GFLOPS=0.561, K=[3 x 3], IN={1, 128, 38, 50}, OCN=128, PM=SAME, BIAS, OCV/CPU)|2.413|2.406|1.00|
+|conv::Conv::(GFLOPS=0.624, K=[3 x 3], IN={1, 128, 46, 46}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|2.538|2.546|1.00|
+|conv::Conv::(GFLOPS=0.701, K=[3 x 3], IN={1, 128, 38, 50}, OCN=160, PM=SAME, BIAS, OCV/CPU)|2.972|2.980|1.00|
+|conv::Conv::(GFLOPS=0.798, K=[3 x 3], IN={1, 64, 104, 104}, OCN=64, P=[1 x 1], OCV/CPU)|3.452|3.464|1.00|
+|conv::Conv::(GFLOPS=0.798, K=[3 x 3], IN={1, 128, 52, 52}, OCN=128, P=[1 x 1], OCV/CPU)|3.082|3.105|0.99|
+|conv::Conv::(GFLOPS=0.798, K=[3 x 3], IN={1, 256, 26, 26}, OCN=256, P=[1 x 1], OCV/CPU)|4.043|3.919|1.03|
+|conv::Conv::(GFLOPS=0.798, K=[3 x 3], IN={1, 512, 13, 13}, OCN=512, P=[1 x 1], OCV/CPU)|5.538|5.531|1.00|
+|conv::Conv::(GFLOPS=0.830, K=[3 x 3], IN={1, 64, 75, 100}, OCN=96, PM=SAME, BIAS, OCV/CPU)|3.393|3.418|0.99|
+|conv::Conv::(GFLOPS=0.958, K=[3 x 3], IN={1, 192, 38, 38}, OCN=192, PM=SAME, OCV/CPU)|4.325|4.234|1.02|
+|conv::Conv::(GFLOPS=0.958, K=[3 x 3], IN={1, 384, 19, 19}, OCN=384, PM=SAME, OCV/CPU)|6.009|5.908|1.02|
+|conv::Conv::(GFLOPS=1.022, K=[3 x 3], IN={1, 576, 19, 19}, OCN=273, PM=SAME, BIAS, OCV/CPU)|6.557|6.376|1.03|
+|conv::Conv::(GFLOPS=1.112, K=[3 x 3], IN={1, 512, 10, 10}, OCN=1206, P=[1 x 1], BIAS, OCV/CPU)|10.114|9.472|1.07|
+|conv::Conv::(GFLOPS=1.181, K=[3 x 3], IN={1, 64, 160, 200}, OCN=128, S=[2 x 2], P=[1 x 1], BIAS, OCV/CPU)|10.373|9.879|1.05|
+|conv::Conv::(GFLOPS=1.182, K=[3 x 3], IN={1, 32, 320, 400}, OCN=64, S=[2 x 2], P=[1 x 1], BIAS, OCV/CPU)|12.782|11.624|1.10|
+|conv::Conv::(GFLOPS=1.195, K=[9 x 9], IN={1, 32, 240, 320}, OCN=3, P=[4 x 4], BIAS, OCV/CPU)|90.931|90.552|1.00|
+|conv::Conv::(GFLOPS=1.196, K=[3 x 3], IN={1, 384, 26, 26}, OCN=256, P=[1 x 1], OCV/CPU)|6.091|5.818|1.05|
+|conv::Conv::(GFLOPS=1.210, K=[3 x 3], IN={1, 32, 256, 256}, OCN=32, PM=SAME, OCV/CPU)|7.083|6.643|1.07|
+|conv::Conv::(GFLOPS=1.245, K=[3 x 3], IN={1, 64, 75, 75}, OCN=192, PM=SAME, BIAS, OCV/CPU)|5.054|5.059|1.00|
+|conv::Conv::(GFLOPS=1.245, K=[3 x 3], IN={1, 96, 75, 100}, OCN=96, PM=SAME, BIAS, OCV/CPU)|5.005|4.931|1.02|
+|conv::Conv::(GFLOPS=1.248, K=[3 x 3], IN={1, 256, 46, 46}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|4.951|5.065|0.98|
+|conv::Conv::(GFLOPS=1.258, K=[3 x 3], IN={1, 1280, 10, 10}, OCN=546, PM=SAME, BIAS, OCV/CPU)|11.957|11.293|1.06|
+|conv::Conv::(GFLOPS=1.261, K=[3 x 3], IN={1, 192, 38, 50}, OCN=192, PM=SAME, BIAS, OCV/CPU)|5.328|5.250|1.01|
+|conv::Conv::(GFLOPS=1.416, K=[3 x 3], IN={1, 128, 62, 82}, OCN=128, BIAS, OCV/CPU)|5.544|5.292|1.05|
+|conv::Conv::(GFLOPS=1.500, K=[3 x 3], IN={1, 128, 64, 84}, OCN=128, BIAS, OCV/CPU)|6.186|5.893|1.05|
+|conv::Conv::(GFLOPS=1.586, K=[3 x 3], IN={1, 128, 66, 86}, OCN=128, BIAS, OCV/CPU)|6.153|5.834|1.05|
+|conv::Conv::(GFLOPS=1.595, K=[3 x 3], IN={1, 256, 26, 26}, OCN=512, P=[1 x 1], OCV/CPU)|8.154|8.107|1.01|
+|conv::Conv::(GFLOPS=1.595, K=[3 x 3], IN={1, 256, 52, 52}, OCN=512, S=[2 x 2], P=[1 x 1], OCV/CPU)|12.699|12.256|1.04|
+|conv::Conv::(GFLOPS=1.595, K=[3 x 3], IN={1, 512, 13, 13}, OCN=1024, P=[1 x 1], OCV/CPU)|11.355|11.217|1.01|
+|conv::Conv::(GFLOPS=1.595, K=[3 x 3], IN={1, 512, 26, 26}, OCN=1024, S=[2 x 2], P=[1 x 1], OCV/CPU)|19.062|17.814|1.07|
+|conv::Conv::(GFLOPS=1.596, K=[3 x 3], IN={1, 64, 104, 104}, OCN=128, P=[1 x 1], OCV/CPU)|6.820|6.531|1.04|
+|conv::Conv::(GFLOPS=1.596, K=[3 x 3], IN={1, 64, 208, 208}, OCN=128, S=[2 x 2], P=[1 x 1], OCV/CPU)|14.502|13.483|1.08|
+|conv::Conv::(GFLOPS=1.596, K=[3 x 3], IN={1, 128, 52, 52}, OCN=256, P=[1 x 1], OCV/CPU)|6.270|6.123|1.02|
+|conv::Conv::(GFLOPS=1.596, K=[3 x 3], IN={1, 128, 104, 104}, OCN=256, S=[2 x 2], P=[1 x 1], OCV/CPU)|13.173|12.451|1.06|
+|conv::Conv::(GFLOPS=1.598, K=[3 x 3], IN={1, 32, 208, 208}, OCN=64, P=[1 x 1], OCV/CPU)|8.326|7.652|1.09|
+|conv::Conv::(GFLOPS=1.598, K=[3 x 3], IN={1, 32, 416, 416}, OCN=64, S=[2 x 2], P=[1 x 1], OCV/CPU)|17.605|16.465|1.07|
+|conv::Conv::(GFLOPS=1.659, K=[3 x 3], IN={1, 960, 10, 10}, OCN=960, PM=SAME, OCV/CPU)|15.675|14.771|1.06|
+|conv::Conv::(GFLOPS=1.660, K=[3 x 3], IN={1, 128, 75, 75}, OCN=128, G=128, P=[1 x 1], BIAS, OCV/CPU)|0.420|0.423|0.99|
+|conv::Conv::(GFLOPS=1.660, K=[3 x 3], IN={1, 128, 75, 75}, OCN=128, PM=SAME, OCV/CPU)|6.788|6.491|1.05|
+|conv::Conv::(GFLOPS=1.675, K=[3 x 3], IN={1, 128, 68, 88}, OCN=128, BIAS, OCV/CPU)|6.456|6.168|1.05|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 256, 38, 38}, OCN=256, G=256, P=[1 x 1], BIAS, OCV/CPU)|0.263|0.261|1.01|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 256, 38, 38}, OCN=256, PM=SAME, OCV/CPU)|7.690|7.398|1.04|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 512, 19, 19}, OCN=512, G=512, P=[1 x 1], BIAS, OCV/CPU)|0.200|0.202|0.99|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 512, 19, 19}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|10.542|10.464|1.01|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 512, 19, 19}, OCN=512, PM=SAME, OCV/CPU)|10.876|10.728|1.01|
+|conv::Conv::(GFLOPS=1.766, K=[3 x 3], IN={1, 128, 70, 90}, OCN=128, BIAS, OCV/CPU)|7.194|6.768|1.06|
+|conv::Conv::(GFLOPS=1.859, K=[3 x 3], IN={1, 128, 72, 92}, OCN=128, BIAS, OCV/CPU)|7.099|6.731|1.05|
+|conv::Conv::(GFLOPS=1.888, K=[3 x 3], IN={1, 1024, 10, 10}, OCN=1024, G=1024, P=[1 x 1], BIAS, OCV/CPU)|0.147|0.162|0.91|
+|conv::Conv::(GFLOPS=1.888, K=[3 x 3], IN={1, 1024, 10, 10}, OCN=1024, PM=SAME, OCV/CPU)|18.558|17.141|1.08|
+|conv::Conv::(GFLOPS=1.954, K=[3 x 3], IN={1, 128, 74, 94}, OCN=128, BIAS, OCV/CPU)|7.641|7.219|1.06|
+|conv::Conv::(GFLOPS=1.995, K=[9 x 9], IN={1, 3, 320, 400}, OCN=32, P=[4 x 4], BIAS, OCV/CPU)|22.666|20.999|1.08|
+|conv::Conv::(GFLOPS=2.052, K=[3 x 3], IN={1, 128, 76, 96}, OCN=128, BIAS, OCV/CPU)|8.523|7.921|1.08|
+|conv::Conv::(GFLOPS=2.100, K=[3 x 3], IN={1, 144, 75, 75}, OCN=144, PM=SAME, OCV/CPU)|8.514|8.109|1.05|
+|conv::Conv::(GFLOPS=2.153, K=[3 x 3], IN={1, 128, 78, 98}, OCN=128, BIAS, OCV/CPU)|8.300|7.878|1.05|
+|conv::Conv::(GFLOPS=2.156, K=[3 x 3], IN={1, 576, 19, 19}, OCN=576, PM=SAME, OCV/CPU)|13.403|13.131|1.02|
+|conv::Conv::(GFLOPS=2.255, K=[3 x 3], IN={1, 128, 80, 100}, OCN=128, BIAS, OCV/CPU)|8.920|8.357|1.07|
+|conv::Conv::(GFLOPS=2.719, K=[3 x 3], IN={1, 96, 256, 256}, OCN=96, S=[2 x 2], PM=SAME, OCV/CPU)|28.827|27.616|1.04|
+|conv::Conv::(GFLOPS=3.319, K=[3 x 3], IN={1, 128, 75, 75}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|12.895|12.670|1.02|
+|conv::Conv::(GFLOPS=3.321, K=[3 x 3], IN={1, 64, 150, 150}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|14.120|13.078|1.08|
+|conv::Conv::(GFLOPS=3.398, K=[7 x 7], IN={1, 128, 46, 46}, OCN=128, P=[3 x 3], BIAS, OCV/CPU)|27.541|27.582|1.00|
+|conv::Conv::(GFLOPS=3.407, K=[3 x 3], IN={1, 512, 19, 19}, OCN=1024, D=[6 x 6], P=[6 x 6], BIAS, OCV/CPU)|32.367|31.140|1.04|
+|conv::Conv::(GFLOPS=3.408, K=[3 x 3], IN={1, 256, 38, 38}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|14.934|14.910|1.00|
+|conv::Conv::(GFLOPS=4.247, K=[3 x 3], IN={1, 480, 32, 32}, OCN=480, PM=SAME, OCV/CPU)|18.289|18.491|0.99|
+|conv::Conv::(GFLOPS=4.247, K=[5 x 5], IN={1, 144, 128, 128}, OCN=144, S=[2 x 2], PM=SAME, OCV/CPU)|37.857|36.845|1.03|
+|conv::Conv::(GFLOPS=4.566, K=[7 x 7], IN={1, 172, 46, 46}, OCN=128, P=[3 x 3], BIAS, OCV/CPU)|37.402|36.566|1.02|
+|conv::Conv::(GFLOPS=4.993, K=[3 x 3], IN={1, 256, 46, 46}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|19.031|19.164|0.99|
+|conv::Conv::(GFLOPS=4.993, K=[3 x 3], IN={1, 512, 46, 46}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|19.019|19.135|0.99|
+|conv::Conv::(GFLOPS=4.994, K=[3 x 3], IN={1, 128, 92, 92}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|20.077|19.400|1.03|
+|conv::Conv::(GFLOPS=4.997, K=[3 x 3], IN={1, 64, 184, 184}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|21.883|21.302|1.03|
+|conv::Conv::(GFLOPS=5.780, K=[5 x 5], IN={1, 672, 32, 32}, OCN=672, S=[2 x 2], PM=SAME, OCV/CPU)|51.288|49.851|1.03|
+|conv::Conv::(GFLOPS=6.116, K=[3 x 3], IN={1, 1152, 16, 16}, OCN=1152, PM=SAME, OCV/CPU)|27.349|28.359|0.96|
+|conv::Conv::(GFLOPS=6.118, K=[3 x 3], IN={1, 144, 128, 128}, OCN=144, PM=SAME, OCV/CPU)|24.915|25.130|0.99|
+|conv::Conv::(GFLOPS=6.637, K=[3 x 3], IN={1, 256, 75, 75}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|25.488|25.899|0.98|
+|conv::Conv::(GFLOPS=6.638, K=[3 x 3], IN={1, 128, 150, 150}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|27.346|27.390|1.00|
+|conv::Conv::(GFLOPS=6.641, K=[3 x 3], IN={1, 64, 150, 200}, OCN=192, PM=SAME, BIAS, OCV/CPU)|28.033|28.301|0.99|
+|conv::Conv::(GFLOPS=6.641, K=[3 x 3], IN={1, 64, 300, 300}, OCN=64, P=[1 x 1], BIAS, OCV/CPU)|50.216|49.970|1.00|
+|conv::Conv::(GFLOPS=6.814, K=[3 x 3], IN={1, 512, 38, 38}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|29.670|29.513|1.01|
+|conv::Conv::(GFLOPS=8.025, K=[3 x 3], IN={1, 1024, 19, 19}, OCN=1206, P=[1 x 1], BIAS, OCV/CPU)|50.565|49.634|1.02|
+|conv::Conv::(GFLOPS=9.986, K=[3 x 3], IN={1, 512, 46, 46}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|37.900|37.814|1.00|
+|conv::Conv::(GFLOPS=9.987, K=[3 x 3], IN={1, 256, 92, 92}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|41.367|39.742|1.04|
+|conv::Conv::(GFLOPS=9.989, K=[3 x 3], IN={1, 128, 184, 184}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|49.128|50.350|0.98|
+|conv::Conv::(GFLOPS=9.993, K=[3 x 3], IN={1, 64, 368, 368}, OCN=64, P=[1 x 1], BIAS, OCV/CPU)|79.643|80.645|0.99|
+|conv::Conv::(GFLOPS=10.087, K=[3 x 3], IN={1, 576, 38, 50}, OCN=512, PM=SAME, BIAS, OCV/CPU)|41.439|40.895|1.01|
+|conv::Conv::(GFLOPS=10.701, K=[3 x 3], IN={1, 512, 38, 38}, OCN=804, P=[1 x 1], BIAS, OCV/CPU)|46.504|46.220|1.01|
+|conv::Conv::(GFLOPS=11.797, K=[5 x 5], IN={1, 240, 64, 64}, OCN=240, PM=SAME, OCV/CPU)|98.086|96.842|1.01|
+|conv::Conv::(GFLOPS=11.797, K=[5 x 5], IN={1, 480, 32, 32}, OCN=480, PM=SAME, OCV/CPU)|102.447|97.299|1.05|
+|conv::Conv::(GFLOPS=16.987, K=[5 x 5], IN={1, 1152, 16, 16}, OCN=1152, PM=SAME, OCV/CPU)|145.047|144.996|1.00|
+|conv::Conv::(GFLOPS=23.122, K=[5 x 5], IN={1, 672, 32, 32}, OCN=672, PM=SAME, OCV/CPU)|206.104|195.543|1.05|
+
+
+### Test on M1(ARM) platform
+|Name of Test|4.x|patch|4.x vs patch (x-factor)|
+|---|:-:|:-:|:-:|
+|conv1d::Conv1D::(GFLOPS=0.000, K=[3], IN={1, 2, 19}, OCN=2, G=2, S=2, P=(1, 1), BIAS, OCV/CPU)|0.001|0.001|0.97|
+|conv1d::Conv1D::(GFLOPS=0.000, K=[3], IN={1, 2, 25}, OCN=2, G=2, P=(2, 2), PM=SAME, OCV/CPU)|0.001|0.001|0.94|
+|conv1d::Conv1D::(GFLOPS=0.000, K=[3], IN={1, 6, 10}, OCN=6, PM=VALID, BIAS, OCV/CPU)|0.002|0.002|0.92|
+|conv3d::Conv3D::(GFLOPS=0.000, K=[1 x 1 x 1], IN={1, 4, 9, 10, 10}, OCN=4, S=[1 x 1 x 2], P=(1, 1) x (1, 1) x (1, 1), PM=VALID, OCV/CPU)|0.003|0.003|1.00|
+|conv3d::Conv3D::(GFLOPS=0.000, K=[1 x 1 x 1], IN={1, 8, 1, 10, 10}, OCN=8, G=8, P=(1, 1) x (1, 1) x (1, 1), BIAS, OCV/CPU)|0.003|0.003|1.00|
+|conv3d::Conv3D::(GFLOPS=0.000, K=[3 x 3 x 3], IN={1, 2, 19, 19, 19}, OCN=2, G=2, S=[2 x 2 x 2], P=(1, 1) x (1, 1) x (1, 1), BIAS, OCV/CPU)|0.031|0.031|1.00|
+|conv3d::Conv3D::(GFLOPS=0.000, K=[3 x 4 x 2], IN={1, 4, 8, 10, 10}, OCN=4, G=4, S=[1 x 2 x 1], BIAS, OCV/CPU)|0.009|0.009|1.00|
+|conv3d::Conv3D::(GFLOPS=0.001, K=[3 x 3 x 3], IN={1, 2, 25, 19, 19}, OCN=2, G=2, S=[1 x 2 x 2], P=(2, 2) x (2, 2) x (2, 2), PM=SAME, OCV/CPU)|0.066|0.066|1.01|
+|conv3d::Conv3D::(GFLOPS=0.002, K=[3 x 1 x 4], IN={1, 14, 5, 10, 10}, OCN=14, PM=SAME, OCV/CPU)|0.102|0.102|1.00|
+|conv3d::Conv3D::(GFLOPS=0.006, K=[5 x 5 x 5], IN={1, 4, 50, 19, 19}, OCN=4, S=[2 x 2 x 2], P=(1, 1) x (1, 1) x (1, 1), PM=VALID, OCV/CPU)|0.328|0.328|1.00|
+|conv3d::Conv3D::(GFLOPS=0.027, K=[3 x 3 x 3], IN={1, 6, 10, 38, 50}, OCN=6, PM=VALID, BIAS, OCV/CPU)|0.693|0.747|0.93|
+|conv3d::Conv3D::(GFLOPS=0.030, K=[5 x 5 x 5], IN={1, 6, 19, 19, 19}, OCN=6, G=2, OCV/CPU)|1.268|1.266|1.00|
+|conv3d::Conv3D::(GFLOPS=0.045, K=[7 x 7 x 7], IN={1, 2, 38, 38, 38}, OCN=2, S=[1 x 2 x 1], OCV/CPU)|3.530|3.581|0.99|
+|conv3d::Conv3D::(GFLOPS=0.053, K=[3 x 3 x 3], IN={1, 10, 98, 10, 10}, OCN=10, PM=SAME, OCV/CPU)|1.186|1.188|1.00|
+|conv3d::Conv3D::(GFLOPS=0.071, K=[7 x 7 x 7], IN={1, 6, 15, 19, 19}, OCN=6, S=[2 x 1 x 1], P=(3, 3) x (3, 3) x (3, 3), PM=SAME, BIAS, OCV/CPU)|2.682|2.683|1.00|
+|conv3d::Conv3D::(GFLOPS=0.093, K=[5 x 5 x 5], IN={1, 4, 40, 75, 75}, OCN=4, S=[2 x 2 x 2], OCV/CPU)|4.490|4.501|1.00|
+|conv3d::Conv3D::(GFLOPS=0.116, K=[5 x 5 x 5], IN={1, 2, 21, 75, 100}, OCN=2, BIAS, OCV/CPU)|8.914|8.938|1.00|
+|conv3d::Conv3D::(GFLOPS=1.267, K=[5 x 5 x 5], IN={1, 3, 75, 75, 100}, OCN=3, PM=SAME, BIAS, OCV/CPU)|69.819|69.876|1.00|
+|conv3d::Conv3D::(GFLOPS=1.343, K=[3 x 3 x 3], IN={1, 11, 9, 150, 200}, OCN=11, PM=VALID, BIAS, OCV/CPU)|24.058|22.420|1.07|
+|conv::Conv::(GFLOPS=0.177, K=[1 x 1], IN={1, 512, 26, 26}, OCN=256, OCV/CPU)|2.240|2.236|1.00|
+|conv::Conv::(GFLOPS=0.177, K=[1 x 1], IN={1, 1024, 13, 13}, OCN=512, OCV/CPU)|3.132|3.136|1.00|
+|conv::Conv::(GFLOPS=0.178, K=[1 x 1], IN={1, 256, 52, 52}, OCN=128, OCV/CPU)|1.920|1.919|1.00|
+|conv::Conv::(GFLOPS=0.210, K=[1 x 1], IN={1, 576, 38, 50}, OCN=96, PM=SAME, BIAS, OCV/CPU)|2.343|2.346|1.00|
+|conv::Conv::(GFLOPS=0.231, K=[3 x 3], IN={1, 128, 56, 56}, OCN=32, P=[1 x 1], OCV/CPU)|1.234|1.116|1.11|
+|conv::Conv::(GFLOPS=0.231, K=[3 x 3], IN={1, 256, 14, 14}, OCN=256, P=[1 x 1], OCV/CPU)|1.109|1.121|0.99|
+|conv::Conv::(GFLOPS=0.280, K=[1 x 1], IN={1, 576, 38, 50}, OCN=128, PM=SAME, BIAS, OCV/CPU)|3.197|3.084|1.04|
+|conv::Conv::(GFLOPS=0.302, K=[3 x 3], IN={1, 64, 64, 64}, OCN=64, PM=SAME, OCV/CPU)|1.123|1.148|0.98|
+|conv::Conv::(GFLOPS=0.357, K=[1 x 1], IN={1, 64, 208, 208}, OCN=64, OCV/CPU)|4.836|5.061|0.96|
+|conv::Conv::(GFLOPS=0.420, K=[3 x 3], IN={1, 96, 38, 50}, OCN=128, PM=SAME, BIAS, OCV/CPU)|1.535|1.463|1.05|
+|conv::Conv::(GFLOPS=0.472, K=[3 x 3], IN={1, 128, 40, 40}, OCN=128, PM=SAME, OCV/CPU)|1.756|1.584|1.11|
+|conv::Conv::(GFLOPS=0.472, K=[3 x 3], IN={1, 256, 20, 20}, OCN=256, PM=SAME, OCV/CPU)|1.821|1.820|1.00|
+|conv::Conv::(GFLOPS=0.472, K=[3 x 3], IN={1, 512, 10, 10}, OCN=512, PM=SAME, OCV/CPU)|7.049|6.672|1.06|
+|conv::Conv::(GFLOPS=0.561, K=[3 x 3], IN={1, 128, 38, 50}, OCN=128, PM=SAME, BIAS, OCV/CPU)|1.967|1.922|1.02|
+|conv::Conv::(GFLOPS=0.624, K=[3 x 3], IN={1, 128, 46, 46}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|1.943|1.977|0.98|
+|conv::Conv::(GFLOPS=0.701, K=[3 x 3], IN={1, 128, 38, 50}, OCN=160, PM=SAME, BIAS, OCV/CPU)|2.464|2.310|1.07|
+|conv::Conv::(GFLOPS=0.798, K=[3 x 3], IN={1, 64, 104, 104}, OCN=64, P=[1 x 1], OCV/CPU)|2.860|2.904|0.98|
+|conv::Conv::(GFLOPS=0.798, K=[3 x 3], IN={1, 128, 52, 52}, OCN=128, P=[1 x 1], OCV/CPU)|2.428|2.483|0.98|
+|conv::Conv::(GFLOPS=0.798, K=[3 x 3], IN={1, 256, 26, 26}, OCN=256, P=[1 x 1], OCV/CPU)|2.955|2.983|0.99|
+|conv::Conv::(GFLOPS=0.798, K=[3 x 3], IN={1, 512, 13, 13}, OCN=512, P=[1 x 1], OCV/CPU)|4.328|4.484|0.97|
+|conv::Conv::(GFLOPS=0.830, K=[3 x 3], IN={1, 64, 75, 100}, OCN=96, PM=SAME, BIAS, OCV/CPU)|2.712|2.778|0.98|
+|conv::Conv::(GFLOPS=0.958, K=[3 x 3], IN={1, 192, 38, 38}, OCN=192, PM=SAME, OCV/CPU)|3.205|3.331|0.96|
+|conv::Conv::(GFLOPS=0.958, K=[3 x 3], IN={1, 384, 19, 19}, OCN=384, PM=SAME, OCV/CPU)|4.193|4.412|0.95|
+|conv::Conv::(GFLOPS=1.022, K=[3 x 3], IN={1, 576, 19, 19}, OCN=273, PM=SAME, BIAS, OCV/CPU)|5.026|4.565|1.10|
+|conv::Conv::(GFLOPS=1.112, K=[3 x 3], IN={1, 512, 10, 10}, OCN=1206, P=[1 x 1], BIAS, OCV/CPU)|14.490|14.213|1.02|
+|conv::Conv::(GFLOPS=1.181, K=[3 x 3], IN={1, 64, 160, 200}, OCN=128, S=[2 x 2], P=[1 x 1], BIAS, OCV/CPU)|14.886|14.003|1.06|
+|conv::Conv::(GFLOPS=1.182, K=[3 x 3], IN={1, 32, 320, 400}, OCN=64, S=[2 x 2], P=[1 x 1], BIAS, OCV/CPU)|15.923|15.184|1.05|
+|conv::Conv::(GFLOPS=1.195, K=[9 x 9], IN={1, 32, 240, 320}, OCN=3, P=[4 x 4], BIAS, OCV/CPU)|45.136|41.696|1.08|
+|conv::Conv::(GFLOPS=1.196, K=[3 x 3], IN={1, 384, 26, 26}, OCN=256, P=[1 x 1], OCV/CPU)|4.995|4.631|1.08|
+|conv::Conv::(GFLOPS=1.210, K=[3 x 3], IN={1, 32, 256, 256}, OCN=32, PM=SAME, OCV/CPU)|6.402|6.261|1.02|
+|conv::Conv::(GFLOPS=1.245, K=[3 x 3], IN={1, 64, 75, 75}, OCN=192, PM=SAME, BIAS, OCV/CPU)|4.478|3.965|1.13|
+|conv::Conv::(GFLOPS=1.245, K=[3 x 3], IN={1, 96, 75, 100}, OCN=96, PM=SAME, BIAS, OCV/CPU)|3.908|3.978|0.98|
+|conv::Conv::(GFLOPS=1.248, K=[3 x 3], IN={1, 256, 46, 46}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|4.176|4.206|0.99|
+|conv::Conv::(GFLOPS=1.258, K=[3 x 3], IN={1, 1280, 10, 10}, OCN=546, PM=SAME, BIAS, OCV/CPU)|21.509|21.136|1.02|
+|conv::Conv::(GFLOPS=1.261, K=[3 x 3], IN={1, 192, 38, 50}, OCN=192, PM=SAME, BIAS, OCV/CPU)|4.426|4.082|1.08|
+|conv::Conv::(GFLOPS=1.416, K=[3 x 3], IN={1, 128, 62, 82}, OCN=128, BIAS, OCV/CPU)|4.098|4.289|0.96|
+|conv::Conv::(GFLOPS=1.500, K=[3 x 3], IN={1, 128, 64, 84}, OCN=128, BIAS, OCV/CPU)|4.646|5.105|0.91|
+|conv::Conv::(GFLOPS=1.586, K=[3 x 3], IN={1, 128, 66, 86}, OCN=128, BIAS, OCV/CPU)|4.746|4.724|1.00|
+|conv::Conv::(GFLOPS=1.595, K=[3 x 3], IN={1, 256, 26, 26}, OCN=512, P=[1 x 1], OCV/CPU)|5.614|5.779|0.97|
+|conv::Conv::(GFLOPS=1.595, K=[3 x 3], IN={1, 256, 52, 52}, OCN=512, S=[2 x 2], P=[1 x 1], OCV/CPU)|21.909|20.718|1.06|
+|conv::Conv::(GFLOPS=1.595, K=[3 x 3], IN={1, 512, 13, 13}, OCN=1024, P=[1 x 1], OCV/CPU)|8.256|8.290|1.00|
+|conv::Conv::(GFLOPS=1.595, K=[3 x 3], IN={1, 512, 26, 26}, OCN=1024, S=[2 x 2], P=[1 x 1], OCV/CPU)|25.196|23.267|1.08|
+|conv::Conv::(GFLOPS=1.596, K=[3 x 3], IN={1, 64, 104, 104}, OCN=128, P=[1 x 1], OCV/CPU)|5.721|5.172|1.11|
+|conv::Conv::(GFLOPS=1.596, K=[3 x 3], IN={1, 64, 208, 208}, OCN=128, S=[2 x 2], P=[1 x 1], OCV/CPU)|20.066|18.322|1.10|
+|conv::Conv::(GFLOPS=1.596, K=[3 x 3], IN={1, 128, 52, 52}, OCN=256, P=[1 x 1], OCV/CPU)|4.448|4.542|0.98|
+|conv::Conv::(GFLOPS=1.596, K=[3 x 3], IN={1, 128, 104, 104}, OCN=256, S=[2 x 2], P=[1 x 1], OCV/CPU)|19.193|19.013|1.01|
+|conv::Conv::(GFLOPS=1.598, K=[3 x 3], IN={1, 32, 208, 208}, OCN=64, P=[1 x 1], OCV/CPU)|6.009|5.964|1.01|
+|conv::Conv::(GFLOPS=1.598, K=[3 x 3], IN={1, 32, 416, 416}, OCN=64, S=[2 x 2], P=[1 x 1], OCV/CPU)|20.169|20.009|1.01|
+|conv::Conv::(GFLOPS=1.659, K=[3 x 3], IN={1, 960, 10, 10}, OCN=960, PM=SAME, OCV/CPU)|22.584|23.423|0.96|
+|conv::Conv::(GFLOPS=1.660, K=[3 x 3], IN={1, 128, 75, 75}, OCN=128, G=128, P=[1 x 1], BIAS, OCV/CPU)|0.372|0.504|0.74|
+|conv::Conv::(GFLOPS=1.660, K=[3 x 3], IN={1, 128, 75, 75}, OCN=128, PM=SAME, OCV/CPU)|5.426|5.456|0.99|
+|conv::Conv::(GFLOPS=1.675, K=[3 x 3], IN={1, 128, 68, 88}, OCN=128, BIAS, OCV/CPU)|4.945|5.221|0.95|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 256, 38, 38}, OCN=256, G=256, P=[1 x 1], BIAS, OCV/CPU)|0.210|0.261|0.81|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 256, 38, 38}, OCN=256, PM=SAME, OCV/CPU)|5.720|5.997|0.95|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 512, 19, 19}, OCN=512, G=512, P=[1 x 1], BIAS, OCV/CPU)|0.149|0.161|0.93|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 512, 19, 19}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|7.154|7.225|0.99|
+|conv::Conv::(GFLOPS=1.704, K=[3 x 3], IN={1, 512, 19, 19}, OCN=512, PM=SAME, OCV/CPU)|7.184|7.223|0.99|
+|conv::Conv::(GFLOPS=1.766, K=[3 x 3], IN={1, 128, 70, 90}, OCN=128, BIAS, OCV/CPU)|5.324|5.343|1.00|
+|conv::Conv::(GFLOPS=1.859, K=[3 x 3], IN={1, 128, 72, 92}, OCN=128, BIAS, OCV/CPU)|5.114|5.238|0.98|
+|conv::Conv::(GFLOPS=1.888, K=[3 x 3], IN={1, 1024, 10, 10}, OCN=1024, G=1024, P=[1 x 1], BIAS, OCV/CPU)|0.111|0.121|0.92|
+|conv::Conv::(GFLOPS=1.888, K=[3 x 3], IN={1, 1024, 10, 10}, OCN=1024, PM=SAME, OCV/CPU)|25.907|26.804|0.97|
+|conv::Conv::(GFLOPS=1.954, K=[3 x 3], IN={1, 128, 74, 94}, OCN=128, BIAS, OCV/CPU)|5.695|5.654|1.01|
+|conv::Conv::(GFLOPS=1.995, K=[9 x 9], IN={1, 3, 320, 400}, OCN=32, P=[4 x 4], BIAS, OCV/CPU)|27.435|27.566|1.00|
+|conv::Conv::(GFLOPS=2.052, K=[3 x 3], IN={1, 128, 76, 96}, OCN=128, BIAS, OCV/CPU)|6.944|6.164|1.13|
+|conv::Conv::(GFLOPS=2.100, K=[3 x 3], IN={1, 144, 75, 75}, OCN=144, PM=SAME, OCV/CPU)|7.180|6.717|1.07|
+|conv::Conv::(GFLOPS=2.153, K=[3 x 3], IN={1, 128, 78, 98}, OCN=128, BIAS, OCV/CPU)|6.817|6.050|1.13|
+|conv::Conv::(GFLOPS=2.156, K=[3 x 3], IN={1, 576, 19, 19}, OCN=576, PM=SAME, OCV/CPU)|9.225|8.660|1.07|
+|conv::Conv::(GFLOPS=2.255, K=[3 x 3], IN={1, 128, 80, 100}, OCN=128, BIAS, OCV/CPU)|7.496|6.625|1.13|
+|conv::Conv::(GFLOPS=2.719, K=[3 x 3], IN={1, 96, 256, 256}, OCN=96, S=[2 x 2], PM=SAME, OCV/CPU)|35.520|36.056|0.99|
+|conv::Conv::(GFLOPS=3.319, K=[3 x 3], IN={1, 128, 75, 75}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|9.990|9.702|1.03|
+|conv::Conv::(GFLOPS=3.321, K=[3 x 3], IN={1, 64, 150, 150}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|10.517|10.746|0.98|
+|conv::Conv::(GFLOPS=3.398, K=[7 x 7], IN={1, 128, 46, 46}, OCN=128, P=[3 x 3], BIAS, OCV/CPU)|36.702|36.731|1.00|
+|conv::Conv::(GFLOPS=3.407, K=[3 x 3], IN={1, 512, 19, 19}, OCN=1024, D=[6 x 6], P=[6 x 6], BIAS, OCV/CPU)|41.035|38.280|1.07|
+|conv::Conv::(GFLOPS=3.408, K=[3 x 3], IN={1, 256, 38, 38}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|10.981|10.573|1.04|
+|conv::Conv::(GFLOPS=4.247, K=[3 x 3], IN={1, 480, 32, 32}, OCN=480, PM=SAME, OCV/CPU)|12.863|12.384|1.04|
+|conv::Conv::(GFLOPS=4.247, K=[5 x 5], IN={1, 144, 128, 128}, OCN=144, S=[2 x 2], PM=SAME, OCV/CPU)|50.437|54.088|0.93|
+|conv::Conv::(GFLOPS=4.566, K=[7 x 7], IN={1, 172, 46, 46}, OCN=128, P=[3 x 3], BIAS, OCV/CPU)|50.650|50.635|1.00|
+|conv::Conv::(GFLOPS=4.993, K=[3 x 3], IN={1, 256, 46, 46}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|14.696|14.606|1.01|
+|conv::Conv::(GFLOPS=4.993, K=[3 x 3], IN={1, 512, 46, 46}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|16.201|15.426|1.05|
+|conv::Conv::(GFLOPS=4.994, K=[3 x 3], IN={1, 128, 92, 92}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|16.061|14.292|1.12|
+|conv::Conv::(GFLOPS=4.997, K=[3 x 3], IN={1, 64, 184, 184}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|17.743|18.250|0.97|
+|conv::Conv::(GFLOPS=5.780, K=[5 x 5], IN={1, 672, 32, 32}, OCN=672, S=[2 x 2], PM=SAME, OCV/CPU)|77.909|78.165|1.00|
+|conv::Conv::(GFLOPS=6.116, K=[3 x 3], IN={1, 1152, 16, 16}, OCN=1152, PM=SAME, OCV/CPU)|21.579|21.879|0.99|
+|conv::Conv::(GFLOPS=6.118, K=[3 x 3], IN={1, 144, 128, 128}, OCN=144, PM=SAME, OCV/CPU)|20.424|19.589|1.04|
+|conv::Conv::(GFLOPS=6.637, K=[3 x 3], IN={1, 256, 75, 75}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|19.389|19.461|1.00|
+|conv::Conv::(GFLOPS=6.638, K=[3 x 3], IN={1, 128, 150, 150}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|21.319|20.358|1.05|
+|conv::Conv::(GFLOPS=6.641, K=[3 x 3], IN={1, 64, 150, 200}, OCN=192, PM=SAME, BIAS, OCV/CPU)|22.609|21.826|1.04|
+|conv::Conv::(GFLOPS=6.641, K=[3 x 3], IN={1, 64, 300, 300}, OCN=64, P=[1 x 1], BIAS, OCV/CPU)|25.497|25.789|0.99|
+|conv::Conv::(GFLOPS=6.814, K=[3 x 3], IN={1, 512, 38, 38}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|21.966|22.108|0.99|
+|conv::Conv::(GFLOPS=8.025, K=[3 x 3], IN={1, 1024, 19, 19}, OCN=1206, P=[1 x 1], BIAS, OCV/CPU)|35.883|33.470|1.07|
+|conv::Conv::(GFLOPS=9.986, K=[3 x 3], IN={1, 512, 46, 46}, OCN=512, P=[1 x 1], BIAS, OCV/CPU)|31.041|29.314|1.06|
+|conv::Conv::(GFLOPS=9.987, K=[3 x 3], IN={1, 256, 92, 92}, OCN=256, P=[1 x 1], BIAS, OCV/CPU)|29.922|28.145|1.06|
+|conv::Conv::(GFLOPS=9.989, K=[3 x 3], IN={1, 128, 184, 184}, OCN=128, P=[1 x 1], BIAS, OCV/CPU)|31.624|31.148|1.02|
+|conv::Conv::(GFLOPS=9.993, K=[3 x 3], IN={1, 64, 368, 368}, OCN=64, P=[1 x 1], BIAS, OCV/CPU)|38.564|39.164|0.98|
+|conv::Conv::(GFLOPS=10.087, K=[3 x 3], IN={1, 576, 38, 50}, OCN=512, PM=SAME, BIAS, OCV/CPU)|31.502|30.269|1.04|
+|conv::Conv::(GFLOPS=10.701, K=[3 x 3], IN={1, 512, 38, 38}, OCN=804, P=[1 x 1], BIAS, OCV/CPU)|34.248|34.589|0.99|
+|conv::Conv::(GFLOPS=11.797, K=[5 x 5], IN={1, 240, 64, 64}, OCN=240, PM=SAME, OCV/CPU)|130.211|134.120|0.97|
+|conv::Conv::(GFLOPS=11.797, K=[5 x 5], IN={1, 480, 32, 32}, OCN=480, PM=SAME, OCV/CPU)|127.490|132.874|0.96|
+|conv::Conv::(GFLOPS=16.987, K=[5 x 5], IN={1, 1152, 16, 16}, OCN=1152, PM=SAME, OCV/CPU)|199.834|200.081|1.00|
+|conv::Conv::(GFLOPS=23.122, K=[5 x 5], IN={1, 672, 32, 32}, OCN=672, PM=SAME, OCV/CPU)|247.346|247.523|1.00|
+
+
+### Pull Request Readiness Checklist
+
+See details at https://github.com/opencv/opencv/wiki/How_to_contribute#making-a-good-pull-request
+
+- [x] I agree to contribute to the project under Apache 2 License.
+- [x] To the best of my knowledge, the proposed patch is not based on a code under GPL or another license that is incompatible with OpenCV
+- [x] The PR is proposed to the proper branch
+- [ ] There is a reference to the original bug report and related work
+- [ ] There is accuracy test, performance test and test data in opencv_extra repository, if applicable
+      Patch to opencv_extra has the same branch name.
+- [ ] The feature is well documented and sample code can be built with the project CMake
+
+
+```
+force_builders=Linux AVX2,Custom Win
+build_image:Custom Win=msvs2019
+CPU_BASELINE:Custom Win=AVX512_SKX
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6e5f60</div>
+                                        <div class="message">Merge pull request #23301 from shtern:fix_quaternion
+
+Fixed strict type in slerp and spline; Fixed nlerp usage condition
+
+Fixes #23293
+
+The PR is fixing the issue described in [Issue #23293 ](https://github.com/opencv/opencv/issues/23293)
+
+- [X] I agree to contribute to the project under Apache 2 License.
+- [X] To the best of my knowledge, the proposed patch is not based on a code under GPL or another license that is incompatible with OpenCV
+- [X] The PR is proposed to the proper branch
+- [X] There is a reference to the original bug report and related work
+- [X] There is accuracy test, performance test and test data in opencv_extra repository, if applicable
+      Patch to opencv_extra has the same branch name.
+- [X] The feature is well documented and sample code can be built with the project CMake</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29cc675</div>
+                                        <div class="message">Merge pull request #23268 from VadimLevin:dev/vlevin/bindings-io-arg-modifiers-fix
+
+fix: remove extra '/O' modifier for '/IO' arguments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ea6b35</div>
+                                        <div class="message">Merge pull request #23305 from bhavitp:fix/calib3d/undistortion_grid
+
+Resolves https://github.com/opencv/opencv/issues/23304
+
+Fixes the incorrect pixel grid
+Switches type to double to avoid precision loss as all callers use doubles
+
+### Pull Request Readiness Checklist
+
+See details at https://github.com/opencv/opencv/wiki/How_to_contribute#making-a-good-pull-request
+
+- [X] I agree to contribute to the project under Apache 2 License.
+- [X] To the best of my knowledge, the proposed patch is not based on a code under GPL or another license that is incompatible with OpenCV
+- [X] The PR is proposed to the proper branch
+- [X] There is a reference to the original bug report and related work
+- [X] There is accuracy test, performance test and test data in opencv_extra repository, if applicable
+      Patch to opencv_extra has the same branch name.
+- [X] The feature is well documented and sample code can be built with the project CMake</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ad8ec6</div>
+                                        <div class="message">Merge pull request #22441 from vrabaud:hls_while
+
+In case of huge (and probably invalid) input, make sure we do not
+rely only on the while loops for truncation.
+
+### Pull Request Readiness Checklist
+
+See details at https://github.com/opencv/opencv/wiki/How_to_contribute#making-a-good-pull-request
+
+- [x] I agree to contribute to the project under Apache 2 License.
+- [x] To the best of my knowledge, the proposed patch is not based on a code under GPL or another license that is incompatible with OpenCV
+- [x] The PR is proposed to the proper branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0052d46</div>
+                                        <div class="message">Merge pull request #23237 from hzcyf:feature/orbbec_femto_mega_support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a035608</div>
+                                        <div class="message">highgui: Reduce the difference between GTK+2 and GTK+3 version
+
+Make the GTK+3 API the default one by wrapping the missing GTK+2 functions in defines
+Make sure to always guard with GTK_VERSION2 or GTK_VERSION3 to allow future addition
+of Gtk4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe59a56</div>
+                                        <div class="message">core(simd): 64-bit integer EQ/NE without misused 64F guard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5f04f9</div>
+                                        <div class="message">Add ENABLE_DELAYLOAD option</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39e2ebb</div>
+                                        <div class="message">Aruco/Charuco test case fixes for floating point for loops</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#642942a</div>
+                                        <div class="message">fix: remove extra '/O' modifier for '/IO' arguments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ab7b7c</div>
+                                        <div class="message">Remove separator between trackbars.
+
+Remove separator between 2 or more trackbars. This separator has zero thickness and creates bags in toolbar.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b5be4f</div>
+                                        <div class="message">Merge pull request #23247 from lilithgrigoryan:fix-focals-estimation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a87b9fb</div>
+                                        <div class="message">Fix focal length estimation from homography matrix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1f14ce</div>
+                                        <div class="message">highgui: Set hard GLib requirement to &gt;=2.32
+
+This version has been released 10 years ago.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#325fe7e</div>
+                                        <div class="message">add support for Orbbec Femto Mega RGB-D camera</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eb7bf4</div>
+                                        <div class="message">core: improve doc for setNumThreads 
+
+The old documentation implies that the call is only valid for the next parallel region and must be called again if addtional regions should be affected as well.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8561ea</div>
+                                        <div class="message">Update region_layer.cpp
+
+Fix objectness (dstData[index + 4]) is not assigned if new_coords == 1.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5acf351</div>
+                                        <div class="message">#21804 Add opencv_gapi as dep to samples/cpp</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">AvenSun/ZLMediaKit</span>
                                     </div>
@@ -1780,27 +2210,12 @@ you can have a try the latest build.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">NewLifeX/NewLife.XCode</span>
-                                        to
-                                        <span class="repo">AvenSun/NewLife.XCode</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 May 2023, 22:33:18 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 May 2023, 22:40:24 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
