@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2828" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3277" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.number{color:#2777aa}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -487,7 +487,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 22 commits)</small>
+                    <small class="h-details">(computed from last 28 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1698,331 +1698,101 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">AvenSun/PaddleDetection</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release/2.6</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7821e4f</div>
-                                        <div class="message">Update README_cn.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00fe2a1</div>
-                                        <div class="message">[doc] update yolov8 doc of PaddleYOLO (#8053)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eba3cdb</div>
-                                        <div class="message">Update README_cn.md (#8051)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e3708e</div>
-                                        <div class="message">[cherry-pick]PPyolo sod qat (#7990) (#8000)
-
-* add ppyoloe_sod_qat
-
-* ppyoloe sod qat
-
-* add ppyoloe_sod qat demo
-
-* fix ppyoloe sod qat yml
-
-* add ppyoloe-sod ppyoloe_tiny qat
-
-* add ppyoloe_sod_qat readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4bbebf</div>
-                                        <div class="message">fix ppyoloe negative batch assign (#7958)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8433300</div>
-                                        <div class="message">fix video_vis args and web service args (#7932)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d8125d</div>
-                                        <div class="message">Update 5_others.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#415c7a4</div>
-                                        <div class="message">Update 4_ask-a-question.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b97441</div>
-                                        <div class="message">Update 3_documentation-issue.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0b762d</div>
-                                        <div class="message">Update 2_feature-request.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c39f6d7</div>
-                                        <div class="message">Update 2_feature-request.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9e057f</div>
-                                        <div class="message">Update 2_feature-request.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eff8e5</div>
-                                        <div class="message">Update 1_bug-report.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5693ca</div>
-                                        <div class="message">[cherry-pick] update ppyoloe+ tiny models doc (#7921)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e2897c</div>
-                                        <div class="message">fit no tracker info error (#7927)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1af0351</div>
-                                        <div class="message">Update README_cn.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d66bce3</div>
-                                        <div class="message">[Docs]update frontpage readme.cn (#7911)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e50ca5b</div>
-                                        <div class="message">tood model fix assigner_bug (#7897)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03421ea</div>
-                                        <div class="message">tinypose3d &amp;&amp; modelzoo (#7845)
-
-* metro con reverse
-
-tinypose3d fix
-
-readme modelzoo
-
-* fix tinypose3d</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6324fd</div>
-                                        <div class="message">adapted between higherhrnet and petr (#7840)
-
-* new adapted
-
-* test ok</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">AvenSun/PaddleDetection</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release/2.6</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7821e4f</div>
-                                        <div class="message">Update README_cn.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00fe2a1</div>
-                                        <div class="message">[doc] update yolov8 doc of PaddleYOLO (#8053)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eba3cdb</div>
-                                        <div class="message">Update README_cn.md (#8051)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e3708e</div>
-                                        <div class="message">[cherry-pick]PPyolo sod qat (#7990) (#8000)
-
-* add ppyoloe_sod_qat
-
-* ppyoloe sod qat
-
-* add ppyoloe_sod qat demo
-
-* fix ppyoloe sod qat yml
-
-* add ppyoloe-sod ppyoloe_tiny qat
-
-* add ppyoloe_sod_qat readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4bbebf</div>
-                                        <div class="message">fix ppyoloe negative batch assign (#7958)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8433300</div>
-                                        <div class="message">fix video_vis args and web service args (#7932)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d8125d</div>
-                                        <div class="message">Update 5_others.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#415c7a4</div>
-                                        <div class="message">Update 4_ask-a-question.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b97441</div>
-                                        <div class="message">Update 3_documentation-issue.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0b762d</div>
-                                        <div class="message">Update 2_feature-request.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c39f6d7</div>
-                                        <div class="message">Update 2_feature-request.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9e057f</div>
-                                        <div class="message">Update 2_feature-request.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eff8e5</div>
-                                        <div class="message">Update 1_bug-report.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5693ca</div>
-                                        <div class="message">[cherry-pick] update ppyoloe+ tiny models doc (#7921)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e2897c</div>
-                                        <div class="message">fit no tracker info error (#7927)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1af0351</div>
-                                        <div class="message">Update README_cn.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d66bce3</div>
-                                        <div class="message">[Docs]update frontpage readme.cn (#7911)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e50ca5b</div>
-                                        <div class="message">tood model fix assigner_bug (#7897)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03421ea</div>
-                                        <div class="message">tinypose3d &amp;&amp; modelzoo (#7845)
-
-* metro con reverse
-
-tinypose3d fix
-
-readme modelzoo
-
-* fix tinypose3d</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6324fd</div>
-                                        <div class="message">adapted between higherhrnet and petr (#7840)
-
-* new adapted
-
-* test ok</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 420 commits in
-                                        <span class="repo">AvenSun/FastDeploy</span>
+                                        Pushed 431 commits in
+                                        <span class="repo">AvenSun/FlyCV</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e986926</div>
-                                        <div class="message">Update auto compression configs</div>
+                                        <div class="sha">#d7805d0</div>
+                                        <div class="message">Update CONTRIBUTING.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5973198</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into official_dev</div>
+                                        <div class="sha">#e949369</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1b59025</div>
-                                        <div class="message">Update PPOCRv2/v3 examples</div>
+                                        <div class="sha">#b3c182e</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e82df43</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#fc23b0b</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#518fd78</div>
-                                        <div class="message">Fix links in readme</div>
+                                        <div class="sha">#5bb7434</div>
+                                        <div class="message">Update README.md
+
+修改几个文字用词。</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e78faf9</div>
-                                        <div class="message">Fix links in readme</div>
+                                        <div class="sha">#1b3c4a7</div>
+                                        <div class="message">Merge pull request #17 from TomasRan/develop
+
+fix matrix mul bug</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#95b8fad</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#30ad41d</div>
+                                        <div class="message">fix matrix mul bug</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a4dcef9</div>
-                                        <div class="message">Support Python deployment on Huawei Ascend NPU</div>
+                                        <div class="sha">#127cac1</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e791c5e</div>
-                                        <div class="message">Add nnadapter pybind and remove useless API</div>
+                                        <div class="sha">#8aa6bf1</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#47af3f0</div>
-                                        <div class="message">Change names of nnadapter API</div>
+                                        <div class="sha">#4673777</div>
+                                        <div class="message">Merge pull request #16 from TomasRan/develop
+
+add optimize code</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dba439d</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#336558f</div>
+                                        <div class="message">add optimize code</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#606aeb6</div>
-                                        <div class="message">Support compile python whlee</div>
+                                        <div class="sha">#3fde7d0</div>
+                                        <div class="message">Update README_EN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b4bdf60</div>
-                                        <div class="message">remove UseLiteBackend in UseCANN</div>
+                                        <div class="sha">#ed2e94b</div>
+                                        <div class="message">Update README_EN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6cc4ea9</div>
-                                        <div class="message">Update way for compiling Huawei Ascend NPU deployment</div>
+                                        <div class="sha">#bcde39e</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9d96aca</div>
-                                        <div class="message">Fix conflict</div>
+                                        <div class="sha">#7a41d9c</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#21a06de</div>
-                                        <div class="message">Modify Huawei Ascend Cmake</div>
+                                        <div class="sha">#cc4edc6</div>
+                                        <div class="message">Merge pull request #15 from TomasRan/develop
+
+optimize matrix mul &amp; mean_stddev &amp; norm</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d1a1d3b</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#01b1fd1</div>
+                                        <div class="message">optimize matrix mul &amp; mean_stddev &amp; norm</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e957f8a</div>
-                                        <div class="message">Add NNAdapter interface for paddlelite</div>
+                                        <div class="sha">#99ffbed</div>
+                                        <div class="message">delete ci</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e1aa652</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#34909d8</div>
+                                        <div class="message">Merge pull request #13 from TomasRan/my-work
+
+rename enum classes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a5e3c1e</div>
-                                        <div class="message">Add Huawei Ascend NPU deploy through PaddleLite CANN</div>
+                                        <div class="sha">#abffaa1</div>
+                                        <div class="message">rename enum classes</div>
                                     </div>
                                 </div>
                             </section>
@@ -2034,91 +1804,101 @@ readme modelzoo
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 420 commits in
-                                        <span class="repo">AvenSun/FastDeploy</span>
+                                        Pushed 431 commits in
+                                        <span class="repo">AvenSun/FlyCV</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e986926</div>
-                                        <div class="message">Update auto compression configs</div>
+                                        <div class="sha">#d7805d0</div>
+                                        <div class="message">Update CONTRIBUTING.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5973198</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into official_dev</div>
+                                        <div class="sha">#e949369</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1b59025</div>
-                                        <div class="message">Update PPOCRv2/v3 examples</div>
+                                        <div class="sha">#b3c182e</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e82df43</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#fc23b0b</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#518fd78</div>
-                                        <div class="message">Fix links in readme</div>
+                                        <div class="sha">#5bb7434</div>
+                                        <div class="message">Update README.md
+
+修改几个文字用词。</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e78faf9</div>
-                                        <div class="message">Fix links in readme</div>
+                                        <div class="sha">#1b3c4a7</div>
+                                        <div class="message">Merge pull request #17 from TomasRan/develop
+
+fix matrix mul bug</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#95b8fad</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#30ad41d</div>
+                                        <div class="message">fix matrix mul bug</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a4dcef9</div>
-                                        <div class="message">Support Python deployment on Huawei Ascend NPU</div>
+                                        <div class="sha">#127cac1</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e791c5e</div>
-                                        <div class="message">Add nnadapter pybind and remove useless API</div>
+                                        <div class="sha">#8aa6bf1</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#47af3f0</div>
-                                        <div class="message">Change names of nnadapter API</div>
+                                        <div class="sha">#4673777</div>
+                                        <div class="message">Merge pull request #16 from TomasRan/develop
+
+add optimize code</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dba439d</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#336558f</div>
+                                        <div class="message">add optimize code</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#606aeb6</div>
-                                        <div class="message">Support compile python whlee</div>
+                                        <div class="sha">#3fde7d0</div>
+                                        <div class="message">Update README_EN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b4bdf60</div>
-                                        <div class="message">remove UseLiteBackend in UseCANN</div>
+                                        <div class="sha">#ed2e94b</div>
+                                        <div class="message">Update README_EN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6cc4ea9</div>
-                                        <div class="message">Update way for compiling Huawei Ascend NPU deployment</div>
+                                        <div class="sha">#bcde39e</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9d96aca</div>
-                                        <div class="message">Fix conflict</div>
+                                        <div class="sha">#7a41d9c</div>
+                                        <div class="message">Update README_CN.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#21a06de</div>
-                                        <div class="message">Modify Huawei Ascend Cmake</div>
+                                        <div class="sha">#cc4edc6</div>
+                                        <div class="message">Merge pull request #15 from TomasRan/develop
+
+optimize matrix mul &amp; mean_stddev &amp; norm</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d1a1d3b</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#01b1fd1</div>
+                                        <div class="message">optimize matrix mul &amp; mean_stddev &amp; norm</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e957f8a</div>
-                                        <div class="message">Add NNAdapter interface for paddlelite</div>
+                                        <div class="sha">#99ffbed</div>
+                                        <div class="message">delete ci</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e1aa652</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/PaddlePaddle/FastDeploy into huawei</div>
+                                        <div class="sha">#34909d8</div>
+                                        <div class="message">Merge pull request #13 from TomasRan/my-work
+
+rename enum classes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a5e3c1e</div>
-                                        <div class="message">Add Huawei Ascend NPU deploy through PaddleLite CANN</div>
+                                        <div class="sha">#abffaa1</div>
+                                        <div class="message">rename enum classes</div>
                                     </div>
                                 </div>
                             </section>
@@ -2130,15 +1910,605 @@ readme modelzoo
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AvenSun/usrsctp</span>
+                                        Pushed 415 commits in
+                                        <span class="repo">AvenSun/Stardust</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ac559d2</div>
-                                        <div class="message">Unbreak building usrsctp on FreeBSD current</div>
+                                        <div class="sha">#fd76636</div>
+                                        <div class="message">4G网络跑几个小时后，公网IP会改变，此时不要改变在线记录</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35e1739</div>
+                                        <div class="message">IP地址。节点所在内网IP地址</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6a444d</div>
+                                        <div class="message">本地支持的最高版本框架</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f72b2c</div>
+                                        <div class="message">升级支持.NET7.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f5eb92</div>
+                                        <div class="message">StarAgent不再支持Info接口修改本地Server地址</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf9b588</div>
+                                        <div class="message">登录报错后，加大定时间隔，输出简单日志</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7c30e9</div>
+                                        <div class="message">启动失败时，删除影子目录，有可能上一次解压以后，该目录被篡改过。这次删除以后，下一次启动时会再次解压缩</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a76119</div>
+                                        <div class="message">截断超长字段</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19330ac</div>
+                                        <div class="message">更新魔方</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2e09c2</div>
+                                        <div class="message">v2.4.2022.1101</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#835bc66</div>
+                                        <div class="message">增加发布脚本</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ebee7c</div>
+                                        <div class="message">未设置本地配置时，GetConfig返回配置中心</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#891f121</div>
+                                        <div class="message">Url编码</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a882240</div>
+                                        <div class="message">优化埋点告警的节点名称列表，针对节点名称去重</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e308cd</div>
+                                        <div class="message">fix 修正埋点告警链接地址</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7a6a06</div>
+                                        <div class="message">处理RemoteIpAddress中映射到ipv6的ipov4地址</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75ebbd4</div>
+                                        <div class="message">禁用链路跟踪页导航条</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#138f891</div>
+                                        <div class="message">agent上报应用服务新建部署集时，默认禁用，避免影响客户端</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5029d9a</div>
+                                        <div class="message">删除重复提交按钮</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3ebbab</div>
+                                        <div class="message">修正页面错位</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 415 commits in
+                                        <span class="repo">AvenSun/Stardust</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fd76636</div>
+                                        <div class="message">4G网络跑几个小时后，公网IP会改变，此时不要改变在线记录</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35e1739</div>
+                                        <div class="message">IP地址。节点所在内网IP地址</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6a444d</div>
+                                        <div class="message">本地支持的最高版本框架</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f72b2c</div>
+                                        <div class="message">升级支持.NET7.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f5eb92</div>
+                                        <div class="message">StarAgent不再支持Info接口修改本地Server地址</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf9b588</div>
+                                        <div class="message">登录报错后，加大定时间隔，输出简单日志</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7c30e9</div>
+                                        <div class="message">启动失败时，删除影子目录，有可能上一次解压以后，该目录被篡改过。这次删除以后，下一次启动时会再次解压缩</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a76119</div>
+                                        <div class="message">截断超长字段</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19330ac</div>
+                                        <div class="message">更新魔方</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2e09c2</div>
+                                        <div class="message">v2.4.2022.1101</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#835bc66</div>
+                                        <div class="message">增加发布脚本</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ebee7c</div>
+                                        <div class="message">未设置本地配置时，GetConfig返回配置中心</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#891f121</div>
+                                        <div class="message">Url编码</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a882240</div>
+                                        <div class="message">优化埋点告警的节点名称列表，针对节点名称去重</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e308cd</div>
+                                        <div class="message">fix 修正埋点告警链接地址</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7a6a06</div>
+                                        <div class="message">处理RemoteIpAddress中映射到ipv6的ipov4地址</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75ebbd4</div>
+                                        <div class="message">禁用链路跟踪页导航条</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#138f891</div>
+                                        <div class="message">agent上报应用服务新建部署集时，默认禁用，避免影响客户端</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5029d9a</div>
+                                        <div class="message">删除重复提交按钮</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3ebbab</div>
+                                        <div class="message">修正页面错位</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 183 commits in
+                                        <span class="repo">AvenSun/faiss</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#47a9953</div>
+                                        <div class="message">add remove and merge features for IndexFastScan (#2497)
+
+Summary:
+* Modify pq4_get_paked_element to make it not depend on an auxiliary table
+* Create pq4_set_packed_element which sets a single element in codes in packed format
+(These methods would be used in merge and remove for IndexFastScan
+get method is also used in FastScan indices for reconstruction)
+* Add remove feature for IndexFastScan
+* Add merge feature for indexFast Scan
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2497
+
+Test Plan:
+cd build &amp;&amp; make -j
+make test
+cd faiss/python &amp;&amp; python setup.py build &amp;&amp; cd ../../..
+PYTHONPATH="$(ls -d ./build/faiss/python/build/lib*/)" pytest tests/test_*.py
+
+Reviewed By: mdouze
+
+Differential Revision: D39927403
+
+Pulled By: mdouze
+
+fbshipit-source-id: 45271b98419203dfb1cea4f4e7eaf0662523a5b5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16d5ec7</div>
+                                        <div class="message">GPU IVF indices now allow arbitrary quantizer instances + search_preassigned (#2519)
+
+Summary:
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2519
+
+From the beginning, the CPU IVF index design allowed rather arbitrary index instances to be used as the coarse (level 1) quantizer. On the GPU, IVF indices automatically constructed a FlatIndex (internal object that a GpuIndexFlat wraps) to be the coarse quantizer, and did not allow substituting anything else.
+
+This diff allows for the GPU to function like the CPU IndexIVF classes, namely that there is a `quantizer` instance that can be arbitrarily substituted assuming that the coarse quantizer has the same number of vectors as the IVF nlist. Also, we now support any CPU or GPU index as the coarse quantizer for a GpuIndexIVF.
+
+We detect internally if the IVF quantizer instance is a GPU index instance, in which case we can avoid d2h/h2d data copies as needed and pass device data directly to the plugged GPU coarse quantizer. If the plugged coarse quantizer is a CPU instance, then proper d2h/h2d copies for data are inserted as needed.
+
+As some GPU IVF indices operate on the residual with respect to the coarse quantizer, it is necessary that the IVF index has access to the coarse centroids, even if the index is a CPU index. When a CPU index is used as a coarse quantizer, a reconstruction and copy of all of the coarse centroids to the GPU is performed. If the user changes the quantizer instance, or otherwise modifies the quantizer, in order for the GPU IVF index to recognize this change, a function `GpuIndexIVF::updateQuantizer()` must be called to update this cached state. If the coarse quantizer instance is a `GpuIndexFlat` then no separate cached copy is made as we can have direct access to the `FlatIndex` centroid storage.
+
+Additionally, the `IndexIVF::search_preassigned` interface has been added to all GPU IVF instances via `GpuIndexIVF`. Conversion as needed from CPU arrays to GPU is done based on the address space of the passed inputs.
+
+Other additional changes:
+- Removed the `storeTransposed` functionality of `GpuIndexFlat`, as specified by `GpuIndexFlatConfig::storeTransposed`. This was a feature added back in 2016 to potentially accelerate coarse quantizer lookups by avoiding a transposition during matrix multiplication. This feature was not much used, and was an internal implementation detail, and supporting it with the new pluggable functionality wasn't worth it, so this transposition functionality was removed from the code but the parameter in `GpuIndexFlatConfig` still remained.
+
+- This change also required updating index handling code to be `Index::idx_t` (64 bit) based instead of 32 bit in many instances, as any CPU and non-flat index GPU instances will be reporting IVF cells via `Index::idx_t`. 32 bit indices were used in much of the original Faiss due to the poor performance of 64 bit integers versus 32 bit integers.
+
+- Refactored and deleted some redundant code between the `GPUIndexIVF` subclasses (`GpuIndexIVFFlat`, `GpuIndexIVFPQ`, `GpuIndexIVFScalarQuantizer`) for `search` and `search_preassigned`. This is now done by adding an interface to the IVFBase class which contains GPU-specific state (and is a CUDA file/header so is hidden behind an opaque pointer) and virtual functions to provide dispatch to the IVFFlat (which also implements IVFSQ) or IVFPQ classes in gpu/impl.
+
+- Some of the `GpuIndexIVF` subclasses didn't have a default metric parameter (`METRIC_L2`), unlike the CPU versions. Added this default parameter to the header.
+
+- Updated the check for the passed-in coarse quantizer in `GpuIndexIVF` to more closely correspond to the CPU version. Previously it was throwing an error if the coarse quantizer had ntotal not equal to nlist.
+
+- Moved code that sets the proper GPU device (`DeviceScope` etc) to the very top of the functions that need it. It is critical that this is called, and nice to be able to visually verify that it is being set in these functions. Some functions buried it deep within (though not after the code that actually needed that scope to be set).
+
+Reviewed By: mdouze
+
+Differential Revision: D37777979
+
+fbshipit-source-id: 517f611c2afdae87e79258bf1b3a92be406ade86</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c780f4</div>
+                                        <div class="message">Daily `arc lint --take CLANGFORMAT`
+
+Reviewed By: ivanmurashko
+
+Differential Revision: D40204059
+
+fbshipit-source-id: ed3b6a7b754bd920fe7563a14370a0bb3ea239b3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af25054</div>
+                                        <div class="message">support IDSelector in more classes (#2509)
+
+Summary:
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2509
+
+Adds support for:
+- IDSelector for Flat and SQ
+- search_type in SearchParametersPQ
+- IDSelectors implemented in Python (slow but good for testing)
+
+Start optimization of IDSelectorRange and IDSelectorArray for IndexFlat and IDSelectorRange for IndexIVF
+
+Reviewed By: alexanderguzhva
+
+Differential Revision: D40037795
+
+fbshipit-source-id: 61e01acb43c6aa39fea2c3b67a8bba9072383b74</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a64c76f</div>
+                                        <div class="message">Fix sub-object ownership of python interface of IVFSpectralHash
+
+Summary: Code would crash when deallocating the coarse quantizer for a IVFSpectralHash.
+
+Reviewed By: algoriddle
+
+Differential Revision: D40053030
+
+fbshipit-source-id: 6a2987a6983f0e5fc5c5b6296d9000354176af83</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5b49b7</div>
+                                        <div class="message">split __init__.py into subsections (#2508)
+
+Summary:
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2508
+
+the Faiss python module was in a monolythic __init__.py
+This diff splits it in several sub-modules.
+The tricky thing is to make inter-dependencies work.
+
+Reviewed By: alexanderguzhva
+
+Differential Revision: D39969794
+
+fbshipit-source-id: 6e7f896a4b35a7c1a0a1f3a986daa32a00bfae6b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df9c49c</div>
+                                        <div class="message">fix windows compilation and test (#2505)
+
+Summary:
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2505
+
+the SearchParameters made the swig wrapper too long. This diff attempts to work around.
+
+Reviewed By: alexanderguzhva
+
+Differential Revision: D39998713
+
+fbshipit-source-id: 6938b5ca1c64bdc748899407909f7e59f62c0de3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd814b5</div>
+                                        <div class="message">IVF filtering based on IDSelector (no init split) (#2483)
+
+Summary:
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2483
+
+This diff changes the following:
+1. all search functions now take a `SearchParameters` argument that overrides the internal search parameters
+2. the default implementation for most classes throws when the params argument is non-nullptr / non-None
+3. the IndexIVF and IndexHNSW classes have functioning SearchPArameters
+4. the SearchParameters includes an IDSelector that can search only in a subset of the index based on a defined subset of ids
+
+There is also some refactoring: the IDSelector was moved to its own .h/.cpp and python/__init__.py is spit in parts.
+
+The diff is quite bulky because the search function prototypes need to be changed in all index classes.
+
+Things to fix in subsequent diffs:
+
+- support SearchParameters for more index types (Flat variants)
+
+- better sub-object ownership for SearchParams (with std::unique_ptr?)
+
+- special handling of IDSelectorRange to make it faster
+
+Reviewed By: alexanderguzhva
+
+Differential Revision: D39852589
+
+fbshipit-source-id: 4988bdb5b9bee1207cd327d3f80bf5e0e2467fe1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19147f2</div>
+                                        <div class="message">Fix OSX CI. (#2482)
+
+Summary:
+Fixes OSX CI by pinning pytorch version for interop tests. The "real" fix is already landed in pytorch but has not been released yet.
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2482
+
+Reviewed By: alexanderguzhva
+
+Differential Revision: D39891113
+
+Pulled By: beauby
+
+fbshipit-source-id: fa79bf9de1c93e056260ea64613e37625edfecc3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#384dc32</div>
+                                        <div class="message">Fix Windows packages. (#2496)
+
+Summary: Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2496
+
+Reviewed By: alexanderguzhva
+
+Differential Revision: D39859408
+
+Pulled By: beauby
+
+fbshipit-source-id: b3bd06374bc0a815d297d972e0277d56c5789a66</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71cc92e</div>
+                                        <div class="message">Fix gpu packages. (#2495)
+
+Summary:
+CentOS 8 being EOL, some modifications to the OS packages repositories
+are needed in order to keep the build working.
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2495
+
+Reviewed By: alexanderguzhva
+
+Differential Revision: D39857306
+
+Pulled By: beauby
+
+fbshipit-source-id: 175f436132c589a9a22d93727bb58e556a43a8f6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31a8ca1</div>
+                                        <div class="message">IO support for IndexNNDescent (#2493)
+
+Summary:
+This PR added I/O methods for IndexNNDescent.
+
+Closes https://github.com/facebookresearch/faiss/issues/2125
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2493
+
+Test Plan: buck test //faiss/tests:test_index -- TestNNDescent
+
+Reviewed By: mlomeli1
+
+Differential Revision: D39883381
+
+Pulled By: mdouze
+
+fbshipit-source-id: 6fcb0c4e08e66c56750ae48ee22b0b4a958243ae</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3974f4</div>
+                                        <div class="message">Update macOS CI Image Tag (#2442)
+
+Summary:
+It seems that [`xcode:12.4.0` has been retired from CircleCI](https://circleci.com/docs/en/using-macos#supported-xcode-versions), so this PR updates the image version and fixes stopping the pipeline at the spin-up stage.
+
+This PR changes only `.circleci/config.yml` , and doesn't affect the software behavior.
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2442
+
+Reviewed By: beauby
+
+Differential Revision: D39259341
+
+Pulled By: mdouze
+
+fbshipit-source-id: 8c7b0f8eb6f6f951329b4e2a2964672d0ee75ceb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#135203a</div>
+                                        <div class="message">Add faiss.IO_FLAG_SKIP_PRECOMPUTE_TABLE flag for faiss.read_index() (#2489)
+
+Summary:
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2489
+
+Currently, Faiss does not save the precomputed_table for IVFPQ when saving an index, and reconstructs one on the fly upon loading. The introduced flag allows to skip the reconstruction during faiss.read_index()
+
+Reviewed By: mdouze
+
+Differential Revision: D39747978
+
+fbshipit-source-id: 47d3cfc59e791e2e0b986301764ccc5b220292f4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f7ca61</div>
+                                        <div class="message">fail early if RCQ norms table would become too large
+
+Summary:
+The residual coarse quantizer could OOM because of the norms table that is of size ntotal.
+This diff just re-uses a field that fixes a max amount of mem in the additive quantizers and throws if the norms would grow below that.
+
+Reviewed By: alexanderguzhva
+
+Differential Revision: D39771448
+
+fbshipit-source-id: b6a071900e02a81848495e39691405b30f56e291</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6c7862</div>
+                                        <div class="message">T132029385 support merge for IndexFlatCodes (#2488)
+
+Summary:
+support merge for all IndexFlatCodes children
+make merge_from and check_compatible_for_merge methods of Index and IndexIVF and IndexFlatCodes(the only supported types) inherit them from Index.
+
+This is part 1 of 2 as merge_into still not updated
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2488
+
+Test Plan:
+cd build
+make -j
+make test
+cd faiss/python &amp;&amp; python setup.py build
+cd ../../..
+PYTHONPATH="$(ls -d ./build/faiss/python/build/lib*/)" pytest tests/test_*.py
+
+# fbcode
+
+ buck test //faiss/tests/:test_index_merge
+
+buck test //faiss/tests/:test_io
+
+Reviewed By: mdouze
+
+Differential Revision: D39726378
+
+Pulled By: AbdelrahmanElmeniawy
+
+fbshipit-source-id: 6739477fddcad3c7a990f3aae9be07c1b2b74fef</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f00de85</div>
+                                        <div class="message">T131797600 make index_factory support IDMap2 (#2478)
+
+Summary:
+makes index_factory support IDMap2 not only IDMap and add required tests
+adding IDMap2 to index_factory would help users to take advantage of its extra features more than IDMap such as reconstruct the indices.
+
+solves [issue 1864](https://github.com/facebookresearch/faiss/issues/1864)
+
++fix downcast_index IDMap / IDMap2 order
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2478
+
+Test Plan:
+cd build
+make -j
+cd faiss/python &amp;&amp; python setup.py build
+cd ../../..
+PYTHONPATH="$(ls -d ./build/faiss/python/build/lib*/)" pytest tests/test_*.py
+
+Reviewed By: mdouze
+
+Differential Revision: D39660813
+
+Pulled By: AbdelrahmanElmeniawy
+
+fbshipit-source-id: 4881d325bb3b0eaf9637a544511d18c2084453eb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd6502b</div>
+                                        <div class="message">T131797380 add read/write_VectorTransform to puplic API (#2470)
+
+Summary:
+adds write_VectorTransform (const VectorTransform *vt, IOWriter *f) and read_VectorTransform (IOREAD *f) to public API
+Solves [issue 1645](https://github.com/facebookresearch/faiss/issues/1645)
+adds required tests
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2470
+
+Test Plan:
+cd build
+make -j
+cd faiss/python &amp;&amp; python setup.py build
+cd ../../..
+PYTHONPATH="$(ls -d ./build/faiss/python/build/lib*/)" pytest tests/test_io_vector_transform.py
+
+Reviewed By: mdouze
+
+Differential Revision: D39502344
+
+Pulled By: AbdelrahmanElmeniawy
+
+fbshipit-source-id: f1d80ee5dcefbbef4d54de06c564e308a16b6982</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39eab0c</div>
+                                        <div class="message">Add a missing test file reference to CMakeLists.txt (#2474)
+
+Summary: Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2474
+
+Reviewed By: mdouze
+
+Differential Revision: D39545093
+
+fbshipit-source-id: 93852750649936340a62743b5e7744f5c559e608</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6285bd5</div>
+                                        <div class="message">fix typo (#2479)
+
+Summary: Pull Request resolved: https://github.com/facebookresearch/faiss/pull/2479
+
+Reviewed By: mlomeli1
+
+Differential Revision: D39649850
+
+Pulled By: mdouze
+
+fbshipit-source-id: 147b5ec7ecb123e80de38f6bfdfe22b45b89de64</div>
                                     </div>
                                 </div>
                             </section>
@@ -2148,7 +2518,7 @@ readme modelzoo
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jun 2023, 16:24:08 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Jun 2023, 16:30:57 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
