@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1756" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1679" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            132 issue comments
+                            133 issue comments
                         </div>
                     </section>
                     <section>
@@ -1726,6 +1726,23 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by AvenSun in <span class="repo">NewLifeX/NewLife.IP</span></div>
+                                    <div class="comment">I see. thanks!</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1 latest IP data, 531380 records, updated on 21 Jun 2023</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by AvenSun in <span class="repo">NewLifeX/NewLife.IP</span></div>
                                     <div class="comment">@nnhy 
 
 It seems that ip.gz saved via the link above is still the old one.</div>
@@ -1826,62 +1843,12 @@ transport。迫使客户端切换到对应rtp传输协议并重新SETUP；目前
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">AvenSun/ZLMediaKit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6cd9e15</div>
-                                        <div class="message">优化FFmpeg截图命令模板，提高截图成功率 (#2583)
-
--t 0.001参数替换为-frames:v 1，只截图一帧</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06742f9</div>
-                                        <div class="message">新增日志相关设置启动参数 (#2581)
-
-1.新增日志文件保存路径启动参数:log-dir
-2.新增日志文件最大切片个数启动参数:log-slice
-3.新增日志文件最大切片大小启动参数:log-size</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db8e918</div>
-                                        <div class="message">新增配置项指定H264 rtp打包是否优先采用stap-a模式 (#2582)
-
-H264 rtp打包模式是否采用stap-a模式(为了在老版本浏览器上兼容webrtc)还是采用Single NAL unit packet
-per H.264 模式 有些老的rtsp设备不支持stap-a rtp，设置此配置为0可提高兼容性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24d210f</div>
-                                        <div class="message">修复NTP时间戳计算精度不足导致误差累积问题 (#2576 #2570 )
-
-ntp时间戳计算精度由毫秒调整为微秒，解决误差累积问题。</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f753b5</div>
-                                        <div class="message">RTSP支持强制协商RTP传输方式 (#2572)
-
-当客户端发起RTSP SETUP的时候，如果rtp传输类型和配置不一致则返回461 Unsupported
-transport。迫使客户端切换到对应rtp传输协议并重新SETUP；目前支持FFMPEG和VLC。</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jun 2023, 11:09:28 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jun 2023, 12:10:59 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
