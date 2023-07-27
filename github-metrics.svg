@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1942" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1822" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    403k added, 30 removed
+                                    95 added, 5 removed
                                 </div>
                             </section>
                             <section>
@@ -491,7 +491,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 7 commits)</small>
+                    <small class="h-details">(computed from last 9 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1724,6 +1724,126 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">AvenSun/ZLMediaKit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2bcbff0</div>
+                                        <div class="message">web hook不再直接放行来自127.0.0.1播放鉴权请求
+
+防止代理越过鉴权</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c8a468</div>
+                                        <div class="message">来自127.0.0.1的http api请求开启secret校验
+
+防止http代理越过鉴权</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1f6517</div>
+                                        <div class="message">在开启on_http_access hook时，访问http文件(或目录)ip白名单机制不生效
+
+on_http_access hook优先级更高，关闭on_http_access hook时才采用ip白名单机制，防止两种鉴权机制间的冲突</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfae1ae</div>
+                                        <div class="message">修复设置allow_ip_range为空后，无法关闭鉴权相关bug</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e81efec</div>
+                                        <div class="message">ip白名单机制只对需要secret校验的http api生效</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22e3872</div>
+                                        <div class="message">优化ip过滤逻辑性能</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#706c63c</div>
+                                        <div class="message">禁止通过setServerConfig接口修改ffmpeg.bin配置选项</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#098046c</div>
+                                        <div class="message">新增http api与http文件访问ip白名单限制机制，默认禁止公网访问</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8f8b48</div>
+                                        <div class="message">fix rtsp player pull hik record stream (#2624 #2701)
+
+修复rtsp 拉流 sdp中全局a:control:获取失败的bug</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">AvenSun/ZLMediaKit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2bcbff0</div>
+                                        <div class="message">web hook不再直接放行来自127.0.0.1播放鉴权请求
+
+防止代理越过鉴权</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c8a468</div>
+                                        <div class="message">来自127.0.0.1的http api请求开启secret校验
+
+防止http代理越过鉴权</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1f6517</div>
+                                        <div class="message">在开启on_http_access hook时，访问http文件(或目录)ip白名单机制不生效
+
+on_http_access hook优先级更高，关闭on_http_access hook时才采用ip白名单机制，防止两种鉴权机制间的冲突</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfae1ae</div>
+                                        <div class="message">修复设置allow_ip_range为空后，无法关闭鉴权相关bug</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e81efec</div>
+                                        <div class="message">ip白名单机制只对需要secret校验的http api生效</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22e3872</div>
+                                        <div class="message">优化ip过滤逻辑性能</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#706c63c</div>
+                                        <div class="message">禁止通过setServerConfig接口修改ffmpeg.bin配置选项</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#098046c</div>
+                                        <div class="message">新增http api与http文件访问ip白名单限制机制，默认禁止公网访问</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8f8b48</div>
+                                        <div class="message">fix rtsp player pull hik record stream (#2624 #2701)
+
+修复rtsp 拉流 sdp中全局a:control:获取失败的bug</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">AvenSun/ZLMediaKit</span>
                                     </div>
@@ -1768,174 +1888,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">AvenSun/ZLMediaKit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9317665</div>
-                                        <div class="message">支持enhanced-rtmp(H265)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b580d6c</div>
-                                        <div class="message">修复判断是否为增强型rtmp协议相关bug
-
-有符合整型右移7位可能为-1(而不是1)
-这样将导致在处理增强型rtmp时，判断关键帧和配置帧失败</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e9a8b9</div>
-                                        <div class="message">优化函数命名
-
-isCfgFrame -&gt; isConfigFrame
-getAacCfg -&gt; getConfig</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#780a1eb</div>
-                                        <div class="message">完善rtmp关键帧与配置帧判断逻辑</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a86398b</div>
-                                        <div class="message">优化与完善rtmp协议相关代码
-
-rtmp相关常量由宏改为枚举
-明确rtmp包一些字段赋值含义</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47add54</div>
-                                        <div class="message">新增支持enhanced-rtmp h265 推流 (#2694)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b44ca8f</div>
-                                        <div class="message">rtmp协议支持更新metadata (#2669 #2692)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a97f1e5</div>
-                                        <div class="message">提高http/rtsp header解析兼容性 (#2670 #2693)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09aa383</div>
-                                        <div class="message">H264 rtsp sdp生成正确的packetization-mode (#2691)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25d5e41</div>
-                                        <div class="message">禁止默认http api密钥，删除管理员越过鉴权逻辑 (#2655 #2690)
-
-http api secret禁止使用默认的035c73f7-bb6b-4889-a715-d9eb2d1925cc
-删除admin_params的设定</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a17e842</div>
-                                        <div class="message">兼容ffmpeg6.0 (#2648 #2689)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb382c3</div>
-                                        <div class="message">修复whip delete_webrtc未注销流 (#2688)
-
-bug触发条件：
-1、obs whip 推流到zlm
-2、关闭推流
-3、zlm 未注销流</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">AvenSun/ZLMediaKit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9317665</div>
-                                        <div class="message">支持enhanced-rtmp(H265)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b580d6c</div>
-                                        <div class="message">修复判断是否为增强型rtmp协议相关bug
-
-有符合整型右移7位可能为-1(而不是1)
-这样将导致在处理增强型rtmp时，判断关键帧和配置帧失败</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e9a8b9</div>
-                                        <div class="message">优化函数命名
-
-isCfgFrame -&gt; isConfigFrame
-getAacCfg -&gt; getConfig</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#780a1eb</div>
-                                        <div class="message">完善rtmp关键帧与配置帧判断逻辑</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a86398b</div>
-                                        <div class="message">优化与完善rtmp协议相关代码
-
-rtmp相关常量由宏改为枚举
-明确rtmp包一些字段赋值含义</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47add54</div>
-                                        <div class="message">新增支持enhanced-rtmp h265 推流 (#2694)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b44ca8f</div>
-                                        <div class="message">rtmp协议支持更新metadata (#2669 #2692)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a97f1e5</div>
-                                        <div class="message">提高http/rtsp header解析兼容性 (#2670 #2693)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09aa383</div>
-                                        <div class="message">H264 rtsp sdp生成正确的packetization-mode (#2691)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25d5e41</div>
-                                        <div class="message">禁止默认http api密钥，删除管理员越过鉴权逻辑 (#2655 #2690)
-
-http api secret禁止使用默认的035c73f7-bb6b-4889-a715-d9eb2d1925cc
-删除admin_params的设定</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a17e842</div>
-                                        <div class="message">兼容ffmpeg6.0 (#2648 #2689)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb382c3</div>
-                                        <div class="message">修复whip delete_webrtc未注销流 (#2688)
-
-bug触发条件：
-1、obs whip 推流到zlm
-2、关闭推流
-3、zlm 未注销流</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jul 2023, 00:09:49 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Jul 2023, 00:28:14 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
