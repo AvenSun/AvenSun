@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2718" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2638" class="">
     <defs>
         <style/>
     </defs>
@@ -491,7 +491,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 11 commits)</small>
+                    <small class="h-details">(computed from last 12 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1699,6 +1699,51 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">AvenSun/ZLMediaKit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#383da1e</div>
+                                        <div class="message">优化代码 (#2741)
+
+删除无效的配置项，
+同时修复编译警告</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbf4819</div>
+                                        <div class="message">更新合作项目列表</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98a3b8a</div>
+                                        <div class="message">推流结束时，发送eof控制信令给rtmp播放器 (#2711 #2723)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff22511</div>
+                                        <div class="message">修复rtsp服务可能无法发送rtp给nat内播放器的bug (#2737 #2740)
+
+在udp connect rtsp播放器内网端口后，可能导致过滤掉其公网端口发送的打洞包；
+从未无法完成与rtsp播放器udp端口的双向通信。
+Socket::bindPeerAddr修改成软绑定时，只是保存发送目标地址，不会导致打洞包的过滤。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2935bc1</div>
+                                        <div class="message">修复sdp全局信息未保存问题 (#2739)
+
+解决rtsp拉流代理时无法区分直播点播问题</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 918 commits in
                                         <span class="repo">AvenSun/ncnn</span>
                                     </div>
@@ -2042,66 +2087,6 @@ simulcast推流时，在onRecvRtp函数中可能触发对totalReaderCount的调�
                                     <div class="commit">
                                         <div class="sha">#b9af556</div>
                                         <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">AvenSun/ZLMediaKit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2bcbff0</div>
-                                        <div class="message">web hook不再直接放行来自127.0.0.1播放鉴权请求
-
-防止代理越过鉴权</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c8a468</div>
-                                        <div class="message">来自127.0.0.1的http api请求开启secret校验
-
-防止http代理越过鉴权</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1f6517</div>
-                                        <div class="message">在开启on_http_access hook时，访问http文件(或目录)ip白名单机制不生效
-
-on_http_access hook优先级更高，关闭on_http_access hook时才采用ip白名单机制，防止两种鉴权机制间的冲突</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfae1ae</div>
-                                        <div class="message">修复设置allow_ip_range为空后，无法关闭鉴权相关bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e81efec</div>
-                                        <div class="message">ip白名单机制只对需要secret校验的http api生效</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22e3872</div>
-                                        <div class="message">优化ip过滤逻辑性能</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#706c63c</div>
-                                        <div class="message">禁止通过setServerConfig接口修改ffmpeg.bin配置选项</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#098046c</div>
-                                        <div class="message">新增http api与http文件访问ip白名单限制机制，默认禁止公网访问</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8f8b48</div>
-                                        <div class="message">fix rtsp player pull hik record stream (#2624 #2701)
-
-修复rtsp 拉流 sdp中全局a:control:获取失败的bug</div>
                                     </div>
                                 </div>
                             </section>
@@ -2111,7 +2096,7 @@ on_http_access hook优先级更高，关闭on_http_access hook时才采用ip白�
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Aug 2023, 01:01:15 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Aug 2023, 02:08:43 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
