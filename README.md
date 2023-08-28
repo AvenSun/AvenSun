@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 ![Aven's github stats](https://github-readme-stats.vercel.app/api?username=AvenSun&count_private=true&show_icons=true)
 -->
 
+I'm fanatic about
+
+* Deep Learning / Machine Learning
+* Computer Vision / Image Processing
+* Data Mining
+
 I have these skills.
 
 * C# (.NET)
@@ -26,10 +32,4 @@ I have these skills.
 * BAT
 * Development of Desktop Application
 * Development of Server Side Application
-
-I'm fanatic about
-
-* Deep Learning / Machine Learning
-* Computer Vision / Image Processing
-* Data Mining
 
