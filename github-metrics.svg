@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2318" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2255" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    403k added, 331 removed
+                                    403k added, 330 removed
                                 </div>
                             </section>
                             <section>
@@ -487,7 +487,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 3 commits)</small>
+                    <small class="h-details">(computed from last 4 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1723,6 +1723,203 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 208 commits in
+                                        <span class="repo">AvenSun/opencv</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">4.x</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e274e72</div>
+                                        <div class="message">Merge pull request #24098 from 0xMihir:4.x
+
+Fix fullscreen behavior for macOS</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4dd7554</div>
+                                        <div class="message">Merge pull request #24215 from Kumataro:fix24213
+
+core: arm64: v_round() works with round to nearest, ties to even.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d19fc12</div>
+                                        <div class="message">Merge pull request #24178 from dmatveev:dm/streaming_queue
+
+G-API: Introduce a Queue Source #24178
+
+- Added a new IStreamSource class: in fact, a wrapper over a concurrent queue;
+- Added minimal example on how it can be used;
+- Extended IStreamSource with optional "halt" interface to break the blocking calls in the emitter threads when required to stop.
+- Introduced a QueueInput class which allows to pass the whole graph's input vector at once. In fact it is a thin wrapper atop of individual Queue Sources.
+
+There is a hidden trap found with our type system as described in https://github.com/orgs/g-api-org/discussions/2
+
+While it works even in this form, it should be addressed somewhere in the 5.0 timeframe.
+
+### Pull Request Readiness Checklist
+
+See details at https://github.com/opencv/opencv/wiki/How_to_contribute#making-a-good-pull-request
+
+- [x] I agree to contribute to the project under Apache 2 License.
+- [x] To the best of my knowledge, the proposed patch is not based on a code under GPL or another license that is incompatible with OpenCV
+- [x] The PR is proposed to the proper branch
+- [ ] There is a reference to the original bug report and related work
+- [x] There is accuracy test, performance test and test data in opencv_extra repository, if applicable
+      Patch to opencv_extra has the same branch name.
+- [x] The feature is well documented and sample code can be built with the project CMake</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3bccd7</div>
+                                        <div class="message">Merge pull request #24199 from Kumataro:fixlibTiffSite
+
+imgcodecs: fix libtiff URL in opencv source code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72bb8bb</div>
+                                        <div class="message">core: arm64: v_round() works with round to nearest, ties to even.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c53b3c5</div>
+                                        <div class="message">Merge pull request #24203 from thesamesam:arm64-fp16
+
+Fix compilation on arm64 with FP16 when disabled</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a308dfc</div>
+                                        <div class="message">core: add broadcast (#23965)
+
+* add broadcast_to with tests
+
+* change name
+
+* fix test
+
+* fix implicit type conversion
+
+* replace type of shape with InputArray
+
+* add perf test
+
+* add perf tests which takes care of axis
+
+* v2 from ficus expand
+
+* rename to broadcast
+
+* use randu in place of declare
+
+* doc improvement; smaller scale in perf
+
+* capture get_index by reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c20febd</div>
+                                        <div class="message">Fix compilation on arm64 with FP16 when disabled
+
+If building with -mcpu=native or any other setting which implies the current
+CPU has FP16 but with intrinsics disabled, we mistakenly try to use it even
+though convolution.hpp conditionally defines it correctly based on whether
+we should *use it*. convolution.cpp on the other hand was mismatched and
+trying to use it if the CPU supported it, even if not enabled in the build
+system.
+
+Make the guards match.
+
+Bug: https://bugs.gentoo.org/913031
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a1b998</div>
+                                        <div class="message">Merge pull request #24194 from vrabaud:compilation_fix
+
+* Fix compilation when forcing later C++.
+
+* Remove random_shuffle.
+
+* Remove random_shuffle.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b1a4bd</div>
+                                        <div class="message">imgcodecs: fix libtiff homepage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#588ddf1</div>
+                                        <div class="message">Merge pull request #24186 from dkurt:ts_fixture_constructor_skip
+
+Skip test on SkipTestException at fixture's constructor
+
+* Skip test on SkipTestException at fixture's constructor
+
+* Add warning supression
+
+* Skip Python tests if no test file found
+
+* Skip instances of test fixture with exception at SetUpTestCase
+
+* Skip test with exception at SetUp method
+
+* Try remove warning disable
+
+* Add CV_NORETURN
+
+* Remove FAIL assertion
+
+* Use findDataFile to throw Skip exception
+
+* Throw exception conditionally</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4761c28</div>
+                                        <div class="message">Merge pull request #24168 from autoantwort:missing-include-3
+
+* add missing include
+
+* Apply CR</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb34f36</div>
+                                        <div class="message">style: remove extraneous std::cout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#358e306</div>
+                                        <div class="message">cuda: add default ptx when CUDA_ARCH_BIN is missing and allow CUDA_ARCH_PTX to be passed in isolation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afb406f</div>
+                                        <div class="message">style: remove trailing whitespace</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1d0f07</div>
+                                        <div class="message">highgui(cocoa): fix fullscreen behavior</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d25d441</div>
+                                        <div class="message">removing unreachable codes in `gbackend`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f6c95f</div>
+                                        <div class="message">Switch to version 3.4.20-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49ee4d4</div>
+                                        <div class="message">Merge pull request #23879 from asmorkalov/release_3.4.20
+
+Release OpenCV 3.4.20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1eb1d4c</div>
+                                        <div class="message">Release OpenCV 3.4.20</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 14 commits in
                                         <span class="repo">AvenSun/labelImg4windows</span>
                                     </div>
@@ -1889,148 +2086,12 @@ Fixbug</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">AvenSun/ZLMediaKit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ae662fa</div>
-                                        <div class="message">webrtc dtls默认采用https证书，如果https证书不存在则随机生成  (#2928)
-
-之前默认随机创建dtls证书，导致每次启动证书都不一致，而Firefox要求同主机的dtls证书必须一致，所以导致每次服务重启，Firefox可能拒绝dtls握手。
-并且在集群模式下，如果Firefox接入多个不同集群实例的webrtc服务，也可能导致webrtc dtls握手失败。</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a19627</div>
-                                        <div class="message">修复startSendRtp成功后udp套接字被关闭的问题 (#2468 #2924)
-
-对端端口未打开，udp得到connection refused的错误而关闭。</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a871fc1</div>
-                                        <div class="message">websocket服务器支持在创建器中指定消息类型
-
-通过该修改可以更灵活的指定同端口下不同websocket服务的消息类型</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebde21a</div>
-                                        <div class="message">修复openRtpServer开启tcp模式后打开端口失败的bug
-
-两次监听同个tcp端口将导致打开tcp模式失败</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08d86c4</div>
-                                        <div class="message">修复jemalloc编译问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9ea82c</div>
-                                        <div class="message">更新zltoolkit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ee2d66</div>
-                                        <div class="message">统一代码命名风格 (#2910)
-
-openRtpServer时，如果开启tcp模式，从tcp端口池获取</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8cb895</div>
-                                        <div class="message">修复WebApi退出清理时重复析构问题 (#2900)
-
-1. s_???Map.clear()会触发key/value的析构，先执行析构再移除map成员。析构执行完之前map成员仍然有可见性。
-2. s_???Map的成员析构时，根据当前状态，可能触发回调，如播放终止回调。
-3. 在状态变更的回调函数中，通过s_???Map.erase(key)的方式解注册，此时也会触发一次析构。
-
-两次析构导致double free：a) map.erase, b) map.clear
-
-Signed-off-by: ArmstrongCN &lt;armstrong@sweelia.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eedf262</div>
-                                        <div class="message">新增支持mjpeg负载的mp4文件点播 (#2898)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67bc027</div>
-                                        <div class="message">Modify the readme description (#2859)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6348e64</div>
-                                        <div class="message">确保hls播放器持续播放 (#2896)
-
-在hls注销后，hls cookie会继续存活60秒，在此期间，如果hls流重新注册，将导致无法继续播放；
-通过此修改，在hls注销后每3秒查询一次MediaSource，可以在性能和功能间保持平衡。</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c25e763</div>
-                                        <div class="message">修复相对时间戳模式下时间戳回退导致音视频不同步的问题 (#2894 #2877)
-
-加大时间戳回退容忍度，最大回退阈值改成与跳变最大幅度一致</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdc00d5</div>
-                                        <div class="message">增加jemalloc工具类, 增加jemalloc内存统计分析 (#2885)
-
-增加jemalloc工具类, 增加jemalloc内存统计分析</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db3f014</div>
-                                        <div class="message">升级jemalloc到5.3版本 (#2884)
-
-升级jemalloc到5.3版本,相比5.2.1内存稳定许多,去除--without-export编译参数,
-解决类似glibc中分配内存却在jemalloc中释放导致崩溃问题.
-比如: toolkit::LoggerWrapper::printLogV中使用的vasprintf</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48f6281</div>
-                                        <div class="message">更新zltoolkit
-
-优化udp server线程分配逻辑，确保线程负载更均衡</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba01136</div>
-                                        <div class="message">更新默认ssl证书
-
-之前证书(default.zlmediakit.com)已过期，故更新</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f69303</div>
-                                        <div class="message">IP白名单支持ipv6 (#2858)
-
-Fix #2855</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ff3734</div>
-                                        <div class="message">更新zltoolkit
-
-修复tcp客户端获取peer ip信息失败的问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d542eca</div>
-                                        <div class="message">http-flv拉流客户端支持压测模式</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#585f7c3</div>
-                                        <div class="message">修复ffmpeg日志保存目录相关bug
-
-每次调用addFFmpegSource/getSnap接口时，都可能导致篡改全局配置变量</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Nov 2023, 14:36:25 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Nov 2023, 14:43:44 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
