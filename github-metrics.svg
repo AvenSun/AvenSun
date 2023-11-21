@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1794" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2038" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    403k added, 340 removed
+                                    403k added, 412 removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    219 views in last two weeks
+                                    216 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -483,7 +483,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 23 commits)</small>
+                    <small class="h-details">(computed from last 24 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1703,6 +1703,137 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 22 commits in
+                                        <span class="repo">AvenSun/ZLMediaKit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#88f7f46</div>
+                                        <div class="message">Bugfix: Only close edge streams with no viewers (#2994)
+
+Bugfix to only close streams with no viewers if they
+originate from an edge server rather than all streams.
+
+Fixes https://github.com/ZLMediaKit/ZLMediaKit/issues/2981</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48ca052</div>
+                                        <div class="message">Optimization syntax (#2915)
+
+Optimization web rtc demon syntax</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7865f2c</div>
+                                        <div class="message">修复udp单端口模式下rtp鉴权失败后无法关闭流的问题(#2985)
+
+如果rtp推流鉴权失败，在udp模式下延时断开连接，等待超时自动关闭，防止频繁创建销毁RtpSession对象，
+tcp模式则立即断开链接。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a9a51a</div>
+                                        <div class="message">更新media-server (#2982)
+
+Co-authored-by: monktan &lt;monktan@tencent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2374cb</div>
+                                        <div class="message">兼容opensuse系统编译</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6b6fe0</div>
+                                        <div class="message">新增mk_publish_auth_invoker_do2接口，支持精细化控制推流转协议设置</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ea7565</div>
+                                        <div class="message">修复startSendRtp接口开启rtcp时触发断言异常的bug
+
+此问题由pr(#2924)引入</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b394fc</div>
+                                        <div class="message">重写加载mp4文件推流rtsp/rtmp范例程序</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbe6edb</div>
+                                        <div class="message">更新zltoolkit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c81640</div>
+                                        <div class="message">修复国标级联音频可能错乱的bug (#2967)
+
+GB28181流音频解析出来的Frame类型是不可缓存类型，它的数据内存地址是复用的。
+在级联时，会把Frame存入RingBuffer对象，这样在下次使用改Frame对象时，可能数据区已经被覆盖掉了。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#884f1d7</div>
+                                        <div class="message">提高对不规范国标TCP推流的兼容性 (#2966)
+
+问题： 建立tcp链接后，并不是从rtp包头开始发数据，所以无法解析出正确的包。
+解决方案：在tcp数据报文中搜索0x000001bb(关键帧的system header)，找到后偏移固定字节恢复rtp包头。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#055fe2c</div>
+                                        <div class="message">更新zltoolkit，修复fd溢出以及事件紊乱bug (#2946)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f25138</div>
+                                        <div class="message">openRtpServerMultiplex接口统一url路径 (#2963)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6888f20</div>
+                                        <div class="message">新增openRtpServerMultiplex接口，支持创建多路复用RTP服务器端口 (#2954)
+
+#2953</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8285a3</div>
+                                        <div class="message">startSendRtp接口新增支持同ssrc向多个服务器推流 (#2951)
+
+新增ssrc_multi_send参数，支持同ssrc向多个服务器推流，兼容当前startSendRtp/stopSendRtp接口</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1609fe6</div>
+                                        <div class="message">Track新增update方法，支持更新宽高采样率等信息 (#2960)
+
+当变分辨率时候，实时更新MP4封装层的参数信息，避免出现封装层与编码（SPS）层视频宽高不一样，造成解码参数错误花屏；同时也支持更新音频采样率等信息。
+
+
+---------
+
+Co-authored-by: xia-chu &lt;771730766@qq.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77b3c43</div>
+                                        <div class="message">更新zltoolkit，修复打开文件描述符太多时，tcp服务器无响应的bug (#2946)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa5343e</div>
+                                        <div class="message">修复http客户端设置tcp连接超时时间单位错误的问题
+
+须毫秒转换为秒</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#433ecb1</div>
+                                        <div class="message">RTC: 修复gop没有sps/pps导致的秒开失败问题 (#2959)
+
+rtc场景下，如果directProxy设置为1，sdp没有传递sps/pps，因此gop的开始需要是rtp sps/pps配置帧而不是idr关键帧，这样才能保证秒开。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c95ccbd</div>
+                                        <div class="message">更新webassist</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1788,64 +1919,12 @@ you can have  a try the code below.
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">AvenSun/OpenCvSharpSlim</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bbe9a1e</div>
-                                        <div class="message">README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdf81b9</div>
-                                        <div class="message">OpenCvSharpSlim-4.8.0-x86</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a25691e</div>
-                                        <div class="message">OpenCvSharpSlim-4.8.0-x64</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#278c71f</div>
-                                        <div class="message">README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c7496b</div>
-                                        <div class="message">OpenCvSharpSlim-3.4.20-x86</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f5bfbf</div>
-                                        <div class="message">OpenCvSharpSlim-3.4.20-x64</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46b3467</div>
-                                        <div class="message">README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1beee7</div>
-                                        <div class="message">OpenCvSharpSlim-2.4.10-x86</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee7fc77</div>
-                                        <div class="message">OpenCvSharpSlim-2.4.10-x64</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Nov 2023, 09:45:12 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 10:26:02 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
