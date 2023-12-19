@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1609" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1927" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.number,.token.string{color:#2777aa}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    918 added, 399 removed
+                                    403k added, 424 removed
                                 </div>
                             </section>
                             <section>
@@ -483,11 +483,11 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 11 commits)</small>
+                    <small class="h-details">(computed from last 13 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 22:00</li>
+                        <li>Mostly pushes code around 12:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
@@ -1703,6 +1703,459 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 26 commits in
+                                        <span class="repo">AvenSun/faiss</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aebc1d5</div>
+                                        <div class="message">Remove extra semi colon from faiss/impl/IDSelector.h
+
+Summary:
+`-Wextra-semi` or `-Wextra-semi-stmt`
+
+If the code compiles, this is safe to land.
+
+Reviewed By: palmje
+
+Differential Revision: D51995085
+
+fbshipit-source-id: c0a4f134f9361143f337521759793d1cd86e145c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3dab47c</div>
+                                        <div class="message">Remove extra semi colon from facer/engine/libsvm/svm.cpp
+
+Summary:
+`-Wextra-semi` or `-Wextra-semi-stmt`
+
+If the code compiles, this is safe to land.
+
+Reviewed By: palmje
+
+Differential Revision: D51995074
+
+fbshipit-source-id: 4863250ff9f4b87241f6c01cf3b39b6b87172852</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2cb016</div>
+                                        <div class="message">Remove unused exception parameter from files inc faiss/tests/test_approx_topk.cpp
+
+Summary:
+`-Wunused-exception-parameter` has identified an unused exception parameter. This diff removes it.
+
+This:
+```
+try {
+    ...
+} catch (exception&amp; e) {
+    // no use of e
+}
+```
+should instead be written as
+```
+} catch (exception&amp;) {
+```
+
+If the code compiles, this is safe to land.
+
+Reviewed By: algoriddle
+
+Differential Revision: D51977717
+
+fbshipit-source-id: 47a308ff3570935829531663252409b4e0cfdec4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b6c4b4</div>
+                                        <div class="message">Back out "printf -&gt; fmt::print in files inc faiss/IndexBinaryHNSW.cpp" (#3164)
+
+Summary:
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3164
+
+The original diff breaks the open-source Faiss compiles.
+
+Original commit changeset: 230540b26ec8
+
+Original Phabricator Diff: D51486397
+
+Reviewed By: algoriddle
+
+Differential Revision: D51938993
+
+fbshipit-source-id: a57433c4267493d2fe2249e8f4191612c0f1da59</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#131adc5</div>
+                                        <div class="message">printf -&gt; fmt::print in files inc faiss/IndexBinaryHNSW.cpp
+
+Summary:
+One of our [C++ 2024 Modern Code Better Engineering Goals](https://fb.workplace.com/groups/fbcode.fyi/posts/6837863056249437) is to reduce or eliminate the use of printf in our codebase, replacing it with safer and more performant alternatives.
+
+This diff replaces `printf` with its preferred alternative: `fmt::print`.
+
+This diff was auto-generated by fbcode/scripts/rbarnes/printf_upgrader.py, please reach out to r-barnes if you see problems.
+
+ - If you approve of this diff, please use the "Accept &amp; Ship" button :-)
+
+(11 file modified.)
+
+Reviewed By: bcardosolopes
+
+Differential Revision: D51486397
+
+fbshipit-source-id: 230540b26ec8717d8e8aa4ae14d6a34718a964ff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eefa391</div>
+                                        <div class="message">Introduce avx512 optimization mode and FAISS_OPT_LEVEL env variable (#3150)
+
+Summary:
+Enables avx512 optimized code (AVX512 subsets F, CD, VL, DQ and BW, which are available for Intel Skylake+ and all AMD Zen4).
+Also, introduces `FAISS_OPT_LEVEL` environment variable. Set it to `AVX2`, `AVX512` or empty to pick the appropriate x86_64 instruction set.
+
+Compiled via the following
+```
+cmake -B build -DCMAKE_BUILD_TYPE=Release -DFAISS_ENABLE_GPU=OFF -DFAISS_OPT_LEVEL=avx512 -DBUILD_TESTING=ON .
+make -C build -j 8 faiss_test
+make -C build -j 8 swigfaiss
+make -C build -j 8 swigfaiss_avx2
+make -C build -j 8 swigfaiss_avx512
+cd build/faiss/python
+python3 setup.py build
+python3 setup.py install --force
+```
+
+Now, running the following script `1.py`
+```
+import logging
+logging.basicConfig(level=logging.DEBUG)
+
+import faiss
+```
+produces the following:
+```
+root@6179abeef23c:~/faiss# LOGLEVEL=DEBUG FAISS_OPT_LEVEL= python3 1.py
+DEBUG:faiss.loader:Using  as an instruction set.
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+root@6179abeef23c:~/faiss# LOGLEVEL=DEBUG FAISS_OPT_LEVEL=AVX2 python3 1.py
+DEBUG:faiss.loader:Using AVX2 as an instruction set.
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Successfully loaded faiss with AVX2 support.
+root@6179abeef23c:~/faiss# LOGLEVEL=DEBUG FAISS_OPT_LEVEL=AVX512 python3 1.py
+DEBUG:faiss.loader:Using AVX512 as an instruction set.
+INFO:faiss.loader:Loading faiss with AVX512 support.
+INFO:faiss.loader:Successfully loaded faiss with AVX512 support.
+root@6179abeef23c:~/faiss# LOGLEVEL=DEBUG python3 1.py
+DEBUG:faiss.loader:Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+INFO:faiss.loader:Loading faiss with AVX512 support.
+INFO:faiss.loader:Successfully loaded faiss with AVX512 support.
+```
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3150
+
+Reviewed By: algoriddle
+
+Differential Revision: D51701077
+
+Pulled By: mdouze
+
+fbshipit-source-id: 4db05a287e763ff1ce1f676df7f7402532bf1e9e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c83965</div>
+                                        <div class="message">benchmark view results (#3144)
+
+Summary:
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3144
+
+Visualize results of running the benchmark with Pareto optima filtering:
+1. per index or across indices
+2. for space, time or space &amp; time
+3. knn or range search, the latter @ specific precision
+
+Reviewed By: mdouze
+
+Differential Revision: D51552775
+
+fbshipit-source-id: d4f29e3d46ef044e71b54439b3972548c86af5a7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9519a19</div>
+                                        <div class="message">benchmark refactor
+
+Summary:
+1. Support for index construction parameters outside of the factory string (arbitrary depth of quantizers).
+2. Refactor that provides an index wrapper which is a prereq for the optimizer, which will generate indices from pre-optimized components (particularly quantizers)
+
+Reviewed By: mdouze
+
+Differential Revision: D51427452
+
+fbshipit-source-id: 014d05dd798d856360f2546963e7cad64c2fcaeb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5b03cb</div>
+                                        <div class="message">Fix build on Alpine Linux (#3148)
+
+Summary:
+Fixes https://github.com/facebookresearch/faiss/issues/3142
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3148
+
+Reviewed By: algoriddle
+
+Differential Revision: D51741575
+
+Pulled By: mdouze
+
+fbshipit-source-id: b4ea2302802ef70b53f8afe5a7ab4ee02bf6659e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bf8f93</div>
+                                        <div class="message">Add NegativeDistanceComputer::distances_batch_4 override (#3149)
+
+Summary:
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3149
+
+Enables vectorized distance calculation in [NegativeDistanceComputer](https://github.com/facebookresearch/faiss/blob/b109d086a2a200b1697481dd3d79faedc585a623/faiss/IndexHNSW.cpp#L74), whenever supported by the [NegativeDistanceComputer::basedis](https://github.com/facebookresearch/faiss/blob/b109d086a2a200b1697481dd3d79faedc585a623/faiss/IndexHNSW.cpp#L76).
+
+Otherwise the default sequential calculation of [DistanceComputer::distances_batch_4](https://github.com/facebookresearch/faiss/blob/b109d086a2a200b1697481dd3d79faedc585a623/faiss/impl/DistanceComputer.h#L36-L54) is always chosen.
+
+Reviewed By: algoriddle
+
+Differential Revision: D51596177
+
+fbshipit-source-id: fee510c0a229991ecb7d81a51bc53a20880685be</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90654d6</div>
+                                        <div class="message">benchmark core faiss prereqs
+
+Summary:
+1. Support `search_preassigned` in IVFFastScan
+2. `try_extract_index_ivf` to search recursively and support `IndexRefine`
+3. `get_InvertedListScanner` to fail where not available
+4. Workaround an OpenMP issue with `IndexIVFSpectralHash`
+
+Reviewed By: mdouze
+
+Differential Revision: D51427241
+
+fbshipit-source-id: 365e3f11d24e80f101f986fc358c28dcc00805fa</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04bb0a8</div>
+                                        <div class="message">improve ScalarQuantizer performance, ESPECIALLY on old GCC (#3141)
+
+Summary:
+Introduces `FAISS_ALWAYS_INLINE` pragma directive and improves `ScalarQuantizer` performance with it.
+
+Most of performance-critical methods for `ScalarQuantizer` are marked with this new directive, because a compiler (especially, an old one) may be unable to inline it properly. In some of my GCC experiments, such an inlining yields +50% queries per second in a search.
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3141
+
+Reviewed By: algoriddle
+
+Differential Revision: D51615609
+
+Pulled By: mdouze
+
+fbshipit-source-id: 9c755c3e1a289b5d498306c1b9d6fcc21b0bec28</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43f8220</div>
+                                        <div class="message">fix scopedeleter diff
+
+Summary: It seems that for some build modes, swig chokes on static_assert, so protect this with #idndef SWIG. Let's see what the tests say....
+
+Reviewed By: algoriddle
+
+Differential Revision: D50971042
+
+fbshipit-source-id: 83e2ccb464c0bd024cbf3a494357147d75a76ca2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3692d2</div>
+                                        <div class="message">Deprecate ScopeDeleter and ScopeDeleter1 in favor of std::unique_ptr&lt;[]&gt; (#3108)
+
+Summary: Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3108
+
+Reviewed By: mlomeli1
+
+Differential Revision: D50595705
+
+Pulled By: mdouze
+
+fbshipit-source-id: 8555c13609747b7b61201225fcd036d80b50ae59</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb071f8</div>
+                                        <div class="message">Fix is_trained in IndexNSGSQ (#3145)
+
+Summary:
+Same as https://github.com/facebookresearch/faiss/issues/3034
+
+When using IndexNSGSQ with fp16, do not require training
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3145
+
+Reviewed By: algoriddle
+
+Differential Revision: D51615536
+
+Pulled By: mdouze
+
+fbshipit-source-id: c6bfbca920be80231d5d0a7290a29f17ea271f6e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d643c41</div>
+                                        <div class="message">use precomputed norms for raft brute_force knn calls (#3089)
+
+Summary: Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3089
+
+Reviewed By: algoriddle
+
+Differential Revision: D50933982
+
+Pulled By: mdouze
+
+fbshipit-source-id: dd0d00cf71ac490f75b8c2f152e7ae4cc28019ef</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b109d08</div>
+                                        <div class="message">Search and return codes (#3143)
+
+Summary:
+This PR adds a functionality where an IVF index can be searched and the corresponding codes be returned. It also adds a few functions to compress int arrays into a bit-compact representation.
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3143
+
+Test Plan:
+```
+buck test //faiss/tests/:test_index_composite -- TestSearchAndReconstruct
+
+buck test //faiss/tests/:test_standalone_codec -- test_arrays
+```
+
+Reviewed By: algoriddle
+
+Differential Revision: D51544613
+
+Pulled By: mdouze
+
+fbshipit-source-id: 875f72d0f9140096851592422570efa0f65431fc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#467f70e</div>
+                                        <div class="message">Consolidate GPU IVF query tile calculation + special handling for large query memory requirements
+
+Summary:
+In the GPU IVF (Flat, SQ and PQ) code, there is a requirement for using temporary memory for storing unfiltered (or partially filtered) vector distances calculated during list scanning which are k-selected by separate kernels.
+
+While a batch query may be presented to an IVF index, the amount of temporary memory needed to store all these unfiltered distances prior to filtering may be very huge depending upon IVF characteristics (such as the maximum number of vectors encoded in any of the IVF lists), in which case we cannot process the entire batch of queries at once and instead must tile over the batch of queries to reuse the temporary memory that we make available for these distances.
+
+The old code duplicated this roughly equivalent logic in 3 different places (the IVFFlat/SQ code, IVFPQ with precomputed codes, and IVFPQ without precomputed codes). Furthermore, in the case where either little/no temporary memory was available or where what temporary memory was available was (vastly) exceeded by the amount needed to handle a particular query, the old code enforced a minimum number of queries to be processed at once of 8. In certain cases (huge IVF list imbalance), this memory request could exceed the amount of memory that can be safely allocated on a GPU.
+
+This diff consolidates the original 3 separate places where this calculation took place to 1 place in IVFUtils. The logic proceeds roughly as before, to figure out how many queries can be processed in the available temporary memory, except we add a new heuristic in the case where the number of queries that can be concurrently processed falls below 8. This could be either due to little temporary memory being available, or due to huge memory requirements. In this case, we instead ignore the amount of temporary memory available and instead see how many queries' memory requirements would fit into a single 512 MiB memory allocation, so we reasonably cap this amount. If the query still cannot be satisfied with this allocation, we still proceed executing 1 query at a time (which note could still potentially exhaust the GPU memory, but this is an error that is unavoidable).
+
+While a different heuristic using the amount of actual memory allocatable on the device could be used instead of this fixed 512 MiB amount, there is no guarantee to my knowledge that a single cudaMalloc up to this limit could succeed (e.g., GPU reports 3 GiB available, you attempt to allocate all of that in a single allocation), so we just pick an amount which is a reasonable balance between efficiency (parallelism) and memory consumption. Note that if not enough temporary memory is available and a single 512 MiB allocation fails, then there is likely little memory to proceed efficiently at all under any scenario, as Faiss does require some headroom in terms of memory available for scratch spaces.
+
+Reviewed By: mdouze
+
+Differential Revision: D45574455
+
+fbshipit-source-id: 08f5204e3e9656627c9134d7409b9b0960f07b2d</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#411c172</div>
+                                        <div class="message">Add linker script to support large cuda cubin files (#3115)
+
+Summary:
+nvcc starting with CUDA 11.5 offers a `-hls` option to generate host side linker scripts to support large cubin file support.
+Since faiss supports CUDA 11.4 we replicate that behavior but injecting the same linker script into the link line manually.
+
+Pull Request resolved: https://github.com/facebookresearch/faiss/pull/3115
+
+Reviewed By: mdouze
+
+Differential Revision: D51308908
+
+Pulled By: algoriddle
+
+fbshipit-source-id: c6dd073cd3f44dbc99d2e2da97f79b9ebc843b59</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09c7aac</div>
+                                        <div class="message">Faiss GPU CUDA 12 fix: warp synchronous behavior
+
+Summary:
+This diff fixes the bug associated with moving Faiss GPU to CUDA 12.
+
+The following tests were succeeding in CUDA 11.x but failed in CUDA 12:
+
+```
+  ✗ faiss/gpu/test:test_gpu_basics_py - test_input_types (faiss.gpu.test.test_gpu_basics.TestKnn)
+  ✗ faiss/gpu/test:test_gpu_basics_py - test_dist (faiss.gpu.test.test_gpu_basics.TestAllPairwiseDistance)
+  ✗ faiss/gpu/test:test_gpu_index_ivfpq - TestGpuIndexIVFPQ.Add_L2
+  ✗ faiss/gpu/test:test_gpu_basics_py - test_input_types_tiling (faiss.gpu.test.test_gpu_basics.TestKnn)
+  ✗ faiss/gpu/test:test_gpu_index_ivfpq - TestGpuIndexIVFPQ.Add_IP
+  ✗ faiss/gpu/test:test_gpu_index_ivfpq - TestGpuIndexIVFPQ.Float16Coarse
+  ✗ faiss/gpu/test:test_gpu_index_ivfpq - TestGpuIndexIVFPQ.LargeBatch
+```
+
+It took a long while to track down, but the issue presented itself when an odd number of dimensions not divisible by 32 was used in cases where we needed to calculate a L2 norm for vectors, which occurred with brute-force L2 distance computation, as well as certain L2 IVFPQ operations. This issue appeared as some tests were using 33 as the dimensionality of vectors.
+
+The issue is that the number of threads given to the L2 norm kernel was effectively `min(dims, 1024)` where 1024 is the standard maximum number of CUDA threads per CTA on all devices at present. In the case where the result was not a multiple of 32, this would result in a partial warp being passed to the kernel (with non-participating lanes having no side effects).
+
+The change in CUDA 12 here seemed to be a change in the compiler behavior for warp-synchronous shuffle instructions (such as `__shfl_up_sync`. In the case of the partial warp, we were passing `0xffffffff` as the active lane mask, implying that all lanes were present for the warp. In the case of dims = 33, we would have 1 full warp with all lanes present, and 1 partial warp with only 1 active thread, so `0xffffffff` is a lie in this case. Prior to CUDA 12, it appeared that these shuffle instructions may have passed 0? around for lanes not present (or would it stall?), so the result was still calculated correctly. However, with the change to CUDA 12, the compiler and/or device firmware (or something) interprets this differently, where the warp lanes not present were providing garbage. The shuffle instructions were used to perform in-warp reductions (e.g., summing a bunch of floating point numbers), namely those needed to sum up the L2 vector norm value. So for dims = 32 or dims = 64 (and bizarrely, dims = 40 and some other choices) it still worked, but for dims = 33 it was adding in garbage, producing erroneous results.
+
+This diff removes the non-dim loop functionality for runL2Norm (where we can statically avoid a for loop over dimensions in case our threadblock is exactly sized with the number of dimensions present) and we just use the general-purpose fallback. Second, we now always provide an even number of warps when running the L2 norm kernel, avoiding the issue with the warp synchronous instructions not having a full warp present.
+
+This bug has been present since the code was written 2016 and was technically wrong before, but is only surfaced to be a bug/problem with the CUDA 12 change.
+
+tl;dr: if you use any kind of `_sync` instruction involving warp sync, always have a whole number of warps present, k thx.
+
+Reviewed By: mdouze
+
+Differential Revision: D51335172
+
+fbshipit-source-id: 97da88a8dcbe6b4d8963083abc01d5d2121478bf</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AvenSun/OpenVINO.NET</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#574d706</div>
+                                        <div class="message">Merge pull request #12 from AvenSun/master
+
+boost performance of normalization</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1759,73 +2212,12 @@ the improvement should be due to using pointer and Unsafe.As and Unsafe.CopyBloc
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AvenSun/OpenVINO.NET</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#04c9183</div>
-                                        <div class="message">boost performance of normalization</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AvenSun/onnxruntime-inference-examples</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f74568a</div>
-                                        <div class="message">yolov8 object detection python sample (#339)
-
-* added yolov8 object detection script
-
-* added yolov8 colab notebook and requirements for python script
-
-* version change SDL fix
-
-* fix version issue
-
-* add readme for yolov8 sample
-
-* Fix: Refactored code and removed some logs which were not relevant
-
-* remove yolov8 quantization
-
-* rebasing branch
-
----------
-
-Co-authored-by: Preetha Veeramalai &lt;preetha.veeramalai@intel.com&gt;
-Co-authored-by: hmamidix &lt;hemax.sowjanya.mamidi@intel.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Dec 2023, 12:56:17 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2023, 13:09:23 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
