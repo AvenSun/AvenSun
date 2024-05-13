@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            170 issue comments
+                            171 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    403k added, 433 removed
+                                    566 added, 336 removed
                                 </div>
                             </section>
                             <section>
@@ -1714,6 +1714,30 @@
                                 <div class="details">
                                     <div>opened by AvenSun in <span class="repo">NewLifeX/Stardust</span></div>
                                     <div class="comment">
+                                        @nnhy 
+同样设置未做任何改动，要么全失败，要么偶尔会随机启动成功，刚刚测试就遇到了
+代码版本 7e9a907
+                                        <code class="language-multiline" xml:space="preserve">11:06:11.875  5 Y TP 拉取应用服务：（所有）
+11:06:11.949  5 Y TP 取得应用服务：Job
+<span class="token trimmed">(80 more lines were trimmed)</span></code>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#54 在Linux下使用ExtractAndRun模式部署应用时，绝大部分时候都会启动失败</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by AvenSun in <span class="repo">NewLifeX/Stardust</span></div>
+                                    <div class="comment">
                                         @qurikuduo 
 我这边有 Ubuntu 18.04 也存在同样的问题，感觉可能不是OS版本触发的问题。
 发布应用时所有路径全用绝对路径，启动结果和上面的结果也一样，
@@ -1784,42 +1808,12 @@ DISTRIB_RELEASE=20.04
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#54 在Linux下使用ExtractAndRun模式部署应用时，绝大部分时候都会启动失败</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AvenSun in <span class="repo">NewLifeX/Stardust</span></div>
-                                    <div class="comment">
-                                        @nnhy 
-假设以下代码编译后放在了   /root/common/app 目录下，
-
-当 UseShellExecute 为 false 时，仅设置 ProcessStartInfo 的 WorkingDirectory ，此时无法启动 job。
-                                        <code>dotnet  ./RunApp.dll  0  0</code>
-                                        当 UseShellExecute 为 false 时，设置 Environment.CurrentDirectory 为 "/root/common/Job"，此时可以正常启动 job。
-                                        <code>dotnet  ./RunApp.dll  1  0</code>
-                                        当 UseShellExecute 为 true 时，此时可以正常启动 job。
-                                        <code>dotnet  ./RunApp.dll  0  1</code>
-                                        <code class="language-multiline" xml:space="preserve">using System.Diagnostics;
-using NewLife;
-<span class="token trimmed">(62 more lines were trimmed)</span></code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 May 2024, 11:08:34 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 May 2024, 12:12:03 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
