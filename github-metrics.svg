@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2026" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1659" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            183 issue comments
+                            184 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    469k added, 65.7k removed
+                                    468k added, 65.7k removed
                                 </div>
                             </section>
                             <section>
@@ -1721,6 +1721,24 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#70 “参数路径补全”导致的致命错误</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by nnhy in <span class="repo">NewLifeX/Stardust</span></div>
+                                    <div class="comment">@nnhy 
+抱歉考虑不周！</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1810,108 +1828,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 300 commits in
-                                        <span class="repo">AvenSun/NewLife.Cube</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#da6e887</div>
-                                        <div class="message">fix:修正前一个用户登出后后一个用户登录时默认显示了前一个登录用户的租户信息问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2377d97</div>
-                                        <div class="message">Merge branch 'master' of http://git.newlifex.com/NewLife/NewLife.Cube</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbe8987</div>
-                                        <div class="message">修正链接打开方式</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b668a8</div>
-                                        <div class="message">自动记录用户访问主机地址</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1c7350</div>
-                                        <div class="message">OAuth不需要设置第二个专用于http的地址。即使sso带https，设置了SameSite=None和Secure后，非https应用的iframe中，也能嵌入https的sso页面，并且能够读取cookie。</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3d5531</div>
-                                        <div class="message">消除繁琐的cookie跨域设置，在https时，SameSite使用None，此时可以让cookie写入有最好的兼容性，跨域也可以读取</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cb6721</div>
-                                        <div class="message">设置SameSiteMode.None时，要求设置Secure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2513397</div>
-                                        <div class="message">feat: OAuth配置新增Server2，用于设置http专用地址，在主地址为https时，如果当前应用不是https则选择该专用地址。close https://github.com/NewLifeX/NewLife.Cube/issues/73</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24e35f3</div>
-                                        <div class="message">支持设置两个服务器地址，自动选择http/https</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b14ec7</div>
-                                        <div class="message">自动迁移用户上传头像迁移到上传目录的文件</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efc7ab1</div>
-                                        <div class="message">简化用户头像上传，一律按照魔方附件上传处理，确保各处上传逻辑统一</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfe9dc8</div>
-                                        <div class="message">附件表记录TraceId，方便查找附件上传时的上下文</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ebb21e</div>
-                                        <div class="message">feat: 新增ILinkExtend，支持对列表页数据列的高级自定义行为</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d90ef28</div>
-                                        <div class="message">improvement: 改进地区表数据，合并民政部2022年数据</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17fbd99</div>
-                                        <div class="message">时间无效时，ToFullString转为空</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f64202</div>
-                                        <div class="message">ItemType增加支持Time，用于把整型UTC时间数字转为当前时间</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#956a0db</div>
-                                        <div class="message">调整租户切换逻辑，适配用户同时具有管理员和租户信息场景</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3817c0f</div>
-                                        <div class="message">更新 Tabler v1.0.0-beta19</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50f2dcc</div>
-                                        <div class="message">简易版密码规则^(?=.*\\d.*)(?=.*[a-zA-Z].*).{6,32}$</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67ac252</div>
-                                        <div class="message">调整租户设置，支持清空租户信息支持用户以非租户身份登录</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Aug 2024, 10:01:07 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Aug 2024, 10:42:14 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
